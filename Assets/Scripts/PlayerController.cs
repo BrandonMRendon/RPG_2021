@@ -47,4 +47,20 @@ public class PlayerController : MonoBehaviour
             anim.speed = 1;
         }
     }
+
+    //Collision tells us what trigger the player is colliding with
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Collectable"))
+        {
+            //picked up test rupee
+            print("Rupee collected!!!");
+            //add a "money" increment
+            Destroy(collision.gameObject);
+        }
+
+
+
+    }
+
 }
