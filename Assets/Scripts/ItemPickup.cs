@@ -51,11 +51,11 @@ public class ItemPickup : MonoBehaviour
     {
         if (GetComponent<Renderer>().isVisible)
         {
-            print(printer+" Visible");
+            //print(printer+" Visible");
         }
         else
         {
-            print(printer+" Not Visible");
+
         }
     }
     void Start()
