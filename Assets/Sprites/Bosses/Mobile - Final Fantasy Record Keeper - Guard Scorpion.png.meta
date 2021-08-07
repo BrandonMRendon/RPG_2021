@@ -1,0 +1,850 @@
+fileFormatVersion: 2
+guid: 8f7e17fa1723f1a499636b62261a722c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5500717919297794088
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_0
+  - first:
+      213: 3070772842861437984
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_1
+  - first:
+      213: -5682822119223237841
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_2
+  - first:
+      213: 4439622422394483347
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_3
+  - first:
+      213: -1941897177096014798
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_4
+  - first:
+      213: 6875263336879946620
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_5
+  - first:
+      213: -4043981279441583461
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_6
+  - first:
+      213: 1986466603127108534
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_7
+  - first:
+      213: -7953832532206877051
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_8
+  - first:
+      213: -2324592543045094587
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_9
+  - first:
+      213: -5298774205796030230
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_10
+  - first:
+      213: 4182831289614400650
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_11
+  - first:
+      213: -2143598720695717492
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_12
+  - first:
+      213: 586989105983616104
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_13
+  - first:
+      213: 5558893610078482204
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_14
+  - first:
+      213: -8930867133052093050
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_15
+  - first:
+      213: 7090827402912347953
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_16
+  - first:
+      213: 1350222700718135811
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_17
+  - first:
+      213: 5103620905771835462
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_18
+  - first:
+      213: 165172116070222717
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_19
+  - first:
+      213: 1025326372408464918
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_20
+  - first:
+      213: -8774530701450261801
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_21
+  - first:
+      213: 7887945178093923378
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_22
+  - first:
+      213: -1566260044425928396
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_23
+  - first:
+      213: 5725614764093150005
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_24
+  - first:
+      213: -2574069333459979383
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_25
+  - first:
+      213: -6300253743785678133
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_26
+  - first:
+      213: 4453914548707796820
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_27
+  - first:
+      213: -1025335145762928669
+    second: Mobile - Final Fantasy Record Keeper - Guard Scorpion_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 141
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df01aa423689a3b0800000000000000
+      internalID: -5500717919297794088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 138
+        width: 40
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0242ca481a39d9a20800000000000000
+      internalID: 3070772842861437984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 130
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2367f5346f8221b0800000000000000
+      internalID: -5682822119223237841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392beaf2215bc9d30800000000000000
+      internalID: 4439622422394483347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 121
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234bbd85ecefc05e0800000000000000
+      internalID: -1941897177096014798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 124
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bfef30497d96f50800000000000000
+      internalID: 6875263336879946620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 112
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920e88c374e0e7c0800000000000000
+      internalID: -4043981279441583461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3719dc9d8519b10800000000000000
+      internalID: 1986466603127108534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 124
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5860dd2047f4e9190800000000000000
+      internalID: -7953832532206877051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437648f5636dbfd0800000000000000
+      internalID: -2324592543045094587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae866861fe8f676b0800000000000000
+      internalID: -5298774205796030230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 118
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cfad475e66c0a30800000000000000
+      internalID: 4182831289614400650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 122
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8133ff12586042e0800000000000000
+      internalID: -2143598720695717492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8647d2d5b77652800800000000000000
+      internalID: 586989105983616104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1faaec3948252d40800000000000000
+      internalID: 5558893610078482204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68df73609af2f0480800000000000000
+      internalID: -8930867133052093050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 99
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137323244fda76260800000000000000
+      internalID: 7090827402912347953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 95
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a19fb7464fcb210800000000000000
+      internalID: 1350222700718135811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 107
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640a9c47c24b3d640800000000000000
+      internalID: 5103620905771835462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 108
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b4a291a2fca4200800000000000000
+      internalID: 165172116070222717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6161f3e37e0ba3e00800000000000000
+      internalID: 1025326372408464918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 97
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da4c4501da9a3680800000000000000
+      internalID: -8774530701450261801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 89
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c2b0ce85c977d60800000000000000
+      internalID: 7887945178093923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 90
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431ea1ab9c6834ae0800000000000000
+      internalID: -1566260044425928396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_24
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 88
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331186da48757f40800000000000000
+      internalID: 5725614764093150005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 77
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98334e74491174cd0800000000000000
+      internalID: -2574069333459979383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca64d6a9900198a0800000000000000
+      internalID: -6300253743785678133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4572ca72fab7fcd30800000000000000
+      internalID: 4453914548707796820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Final Fantasy Record Keeper - Guard Scorpion_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7c31d0e1745c1f0800000000000000
+      internalID: -1025335145762928669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b6c777dbc3baa394ebbd1203b580fff4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
