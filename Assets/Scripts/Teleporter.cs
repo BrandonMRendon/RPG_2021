@@ -7,8 +7,12 @@ public class Teleporter : MonoBehaviour
     public Transform to;
     private GameObject Player;
     private Animator FADEBLACK;
+
+    //private CinemachineBrain brain;
+
     private void Start()
     {
+        //brain = GameObject.FindObjectWithTag("MainCamera").GetComponent<CinemachineBrain>();
         Player = GameObject.FindGameObjectWithTag("Player");
         FADEBLACK = GameObject.FindGameObjectWithTag("Fader").GetComponent<Animator>();
     }
@@ -17,13 +21,14 @@ public class Teleporter : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player")
         {
+            //brain.
             FADEBLACK.SetTrigger("Fade");
             StartCoroutine("TeleportPlayer");
         }
     }
     IEnumerator TeleportPlayer()
     {
-        yield return  new WaitForSeconds(.5f);
+        yield return  new WaitForSeconds(.25f);
         print("Yeet");
         Player.transform.position = to.position;
     }
