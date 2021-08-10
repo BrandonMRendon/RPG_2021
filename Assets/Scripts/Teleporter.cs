@@ -29,7 +29,6 @@ public class Teleporter : MonoBehaviour
     IEnumerator TeleportPlayer()
     {
         yield return  new WaitForSeconds(.25f);
-        print("Yeet");
         Player.transform.position = to.position;
     }
 }

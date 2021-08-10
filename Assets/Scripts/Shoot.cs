@@ -16,7 +16,19 @@ public class Shoot : MonoBehaviour, IItem
             // Instantiate the projectile at the position and rotation of this transform
         GameObject projectile;
         projectile = Instantiate(bulletPrefab, transform.position + (Vector3)directionFacing, transform.rotation);
-        if(Cursor.visible == true)
+        Collider2D col1 = projectile.GetComponent<Collider2D>();
+        if (GameObject.FindGameObjectWithTag("ColliderProjectile") != null)
+        {
+            Collider2D col2 = GameObject.FindGameObjectWithTag("ColliderProjectile").GetComponent<Collider2D>();
+            Physics2D.IgnoreCollision(col1, col2);
+        }
+        if (GameObject.FindGameObjectWithTag("ColliderProjectile1") != null)
+        {
+            Physics2D.IgnoreCollision(projectile.GetComponent<Collider2D>(), GameObject.FindGameObjectWithTag("ColliderProjectile1").GetComponent<Collider2D>());
+        }
+       
+        
+        if (Cursor.visible == true)
         {
 
             Vector2 mouse = new Vector2(Input.mousePosition.x, Screen.height - Input.mousePosition.y);

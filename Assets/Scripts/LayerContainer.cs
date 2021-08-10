@@ -10,6 +10,6 @@ public class LayerContainer : MonoBehaviour
     private void Start()
     {
         ColliderTilesLevelOneOnly = GameObject.FindGameObjectWithTag("LayerFloorOneOnly");
-        ColliderTilesLevelTwoOnly = GameObject.FindGameObjectWithTag("LayerFloorTwoOnly");
+        ColliderTilesLevelTwoOnly = GameObject.FindGameObjectWithTag("ColliderProjectile");
     }
 }

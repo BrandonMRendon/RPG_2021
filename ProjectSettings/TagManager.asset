@@ -9,6 +9,8 @@ TagManager:
   - Fader
   - Projectile
   - Sword
+  - ColliderProjectile
+  - ColliderProjectile1
   layers:
   - Default
   - TransparentFX

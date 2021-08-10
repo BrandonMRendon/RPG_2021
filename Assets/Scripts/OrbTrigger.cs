@@ -8,7 +8,7 @@ public class OrbTrigger : MonoBehaviour
     public GameObject activeWhenOn, activeWhenOff;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        print("Triggered");
+
         if (collision.gameObject.CompareTag("Projectile") || collision.gameObject.CompareTag("Sword"))
         {
             if (isOn)
