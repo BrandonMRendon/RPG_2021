@@ -33,7 +33,7 @@ public class ItemPickup : MonoBehaviour
             gameObject.transform.parent = collision.gameObject.transform;
             transform.localPosition = Vector3.zero;
             transform.localRotation = Quaternion.identity;
-            print(whatType());
+
             if (slot1)
             {
                 collision.gameObject.GetComponent<PlayerController>().Equipped1 = whatType();

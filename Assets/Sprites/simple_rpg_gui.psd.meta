@@ -1,12 +1,141 @@
 fileFormatVersion: 2
 guid: 8eea65515b4855e49bd841a6d316601e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5698346136560627708
+    second: simple_rpg_gui_0
+  - first:
+      213: 1688574739101620704
+    second: simple_rpg_gui_1
+  - first:
+      213: -388541149498189945
+    second: simple_rpg_gui_2
+  - first:
+      213: -3469415480139366780
+    second: simple_rpg_gui_3
+  - first:
+      213: 212635273868911687
+    second: simple_rpg_gui_4
+  - first:
+      213: 2739552516085057948
+    second: simple_rpg_gui_5
+  - first:
+      213: -8909687381693182650
+    second: simple_rpg_gui_6
+  - first:
+      213: 8694742837983226182
+    second: simple_rpg_gui_7
+  - first:
+      213: 7211994601694133170
+    second: simple_rpg_gui_8
+  - first:
+      213: -3302917244786612196
+    second: simple_rpg_gui_9
+  - first:
+      213: -929015012840134325
+    second: simple_rpg_gui_10
+  - first:
+      213: -7416463987816403229
+    second: simple_rpg_gui_11
+  - first:
+      213: -6890704406600488038
+    second: simple_rpg_gui_12
+  - first:
+      213: 9183693605954733507
+    second: simple_rpg_gui_13
+  - first:
+      213: -4734411113688329732
+    second: simple_rpg_gui_14
+  - first:
+      213: 8215991287126466403
+    second: simple_rpg_gui_15
+  - first:
+      213: -813032632942554750
+    second: simple_rpg_gui_16
+  - first:
+      213: 1644914554346128
+    second: simple_rpg_gui_17
+  - first:
+      213: 8024577079340110986
+    second: simple_rpg_gui_18
+  - first:
+      213: -4666866002603875448
+    second: simple_rpg_gui_19
+  - first:
+      213: 1971304272667028234
+    second: simple_rpg_gui_20
+  - first:
+      213: 8551518887773363310
+    second: simple_rpg_gui_21
+  - first:
+      213: -9219548242318788091
+    second: simple_rpg_gui_22
+  - first:
+      213: -967544213562929401
+    second: simple_rpg_gui_23
+  - first:
+      213: 7757139599074652247
+    second: simple_rpg_gui_24
+  - first:
+      213: 8831587111824140580
+    second: simple_rpg_gui_25
+  - first:
+      213: 71764307438649849
+    second: simple_rpg_gui_26
+  - first:
+      213: 7887174944688115419
+    second: simple_rpg_gui_27
+  - first:
+      213: -1997623998376825626
+    second: simple_rpg_gui_28
+  - first:
+      213: 7532024555523972868
+    second: simple_rpg_gui_29
+  - first:
+      213: -5837251967904467673
+    second: simple_rpg_gui_30
+  - first:
+      213: 170240317107027360
+    second: simple_rpg_gui_31
+  - first:
+      213: 2755420369775851791
+    second: simple_rpg_gui_32
+  - first:
+      213: 7072329385831358934
+    second: simple_rpg_gui_33
+  - first:
+      213: -8387595284994517830
+    second: simple_rpg_gui_34
+  - first:
+      213: -2637460631325006400
+    second: simple_rpg_gui_35
+  - first:
+      213: -699918777142315144
+    second: simple_rpg_gui_36
+  - first:
+      213: 8133187419310498648
+    second: simple_rpg_gui_37
+  - first:
+      213: 5976341957411400974
+    second: simple_rpg_gui_38
+  - first:
+      213: -8859641157827521087
+    second: simple_rpg_gui_39
+  - first:
+      213: -7419899859157007045
+    second: simple_rpg_gui_40
+  - first:
+      213: -4864038812080179193
+    second: simple_rpg_gui_41
+  - first:
+      213: -6833897466871314849
+    second: simple_rpg_gui_42
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -32,16 +161,16 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: 2
     mipBias: -100
-    wrapU: 0
-    wrapV: 0
+    wrapU: 1
+    wrapV: 1
     wrapW: 0
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -50,9 +179,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -66,7 +195,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -78,7 +207,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -90,7 +219,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -102,7 +231,7 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -114,7 +243,19 @@ TextureImporter:
     maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -123,11 +264,914 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: simple_rpg_gui_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 500
+        width: 179
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff6aecbe97941f40800000000000000
+      internalID: 5698346136560627708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 566
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e999dc57c50f6710800000000000000
+      internalID: 1688574739101620704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 566
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d98312ef9b9af0800000000000000
+      internalID: -388541149498189945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3d08a0092adfc0800000000000000
+      internalID: -3469415480139366780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 559
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744acada7ae63f200800000000000000
+      internalID: 212635273868911687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_5
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 570
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9907c4af78d40620800000000000000
+      internalID: 2739552516085057948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 570
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc56a288e6a5480800000000000000
+      internalID: -8909687381693182650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 570
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649ac5f5b8ee9a870800000000000000
+      internalID: 8694742837983226182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_8
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 570
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb730421e6261460800000000000000
+      internalID: 7211994601694133170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 570
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c186bf5f34ea922d0800000000000000
+      internalID: -3302917244786612196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_10
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 562
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a8a894c97b13f0800000000000000
+      internalID: -929015012840134325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_11
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 562
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eee9b41c4d631990800000000000000
+      internalID: -7416463987816403229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 544
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9beb58c9dc4f50a0800000000000000
+      internalID: -6890704406600488038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c545f46da8037f70800000000000000
+      internalID: 9183693605954733507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf112f31d2efb4eb0800000000000000
+      internalID: -4734411113688329732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f90e2ab80150270800000000000000
+      internalID: 8215991287126466403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_16
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 545
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28198a2c02787b4f0800000000000000
+      internalID: -813032632942554750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 545
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a92b38a08d50000800000000000000
+      internalID: 1644914554346128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_18
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 545
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841fce66560d5f60800000000000000
+      internalID: 8024577079340110986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_19
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 545
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e274c816fb3fb0800000000000000
+      internalID: -4666866002603875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_20
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 545
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b2784aaca7b5b10800000000000000
+      internalID: 1971304272667028234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 522
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c56cbde191da670800000000000000
+      internalID: 8551518887773363310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 522
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af20b88b59d0080800000000000000
+      internalID: -9219548242318788091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 509
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fc81ef9a79292f0800000000000000
+      internalID: -967544213562929401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_24
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 509
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750f5f3cd55e6ab60800000000000000
+      internalID: 7757139599074652247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 517
+        width: 204
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429223bbfa9109a70800000000000000
+      internalID: 8831587111824140580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 409
+        width: 173
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1ce64e145fef000800000000000000
+      internalID: 71764307438649849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_27
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 496
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde0f7bf2dfd47d60800000000000000
+      internalID: 7887174944688115419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec24fdae830744e0800000000000000
+      internalID: -1997623998376825626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 493
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f96874d60278860800000000000000
+      internalID: 7532024555523972868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_30
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 491
+        width: 154
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725ba94234aedfea0800000000000000
+      internalID: -5837251967904467673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_31
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 234
+        width: 351
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad3d9b9aa0dc5200800000000000000
+      internalID: 170240317107027360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 334
+        width: 168
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097d5b3a383d3620800000000000000
+      internalID: 2755420369775851791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 338
+        width: 160
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1e8090b16f52260800000000000000
+      internalID: 7072329385831358934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 323
+        width: 206
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab419261786499b80800000000000000
+      internalID: -8387595284994517830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 228
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5abc8978bd56bd0800000000000000
+      internalID: -2637460631325006400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 144
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777ecc94936946f0800000000000000
+      internalID: -699918777142315144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 90
+        width: 197
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853adabcdd2eed070800000000000000
+      internalID: 8133187419310498648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_38
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 34
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0de4c3a85b30f250800000000000000
+      internalID: 5976341957411400974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_39
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 180
+        width: 89
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5924eae4b3c0580800000000000000
+      internalID: -8859641157827521087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_40
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 180
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c9f1f368370990800000000000000
+      internalID: -7419899859157007045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_41
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 180
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7087f30a8767f7cb0800000000000000
+      internalID: -4864038812080179193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: simple_rpg_gui_42
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 180
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5681bf167e1921a0800000000000000
+      internalID: -6833897466871314849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 61fbd22c302e5e3428c813f9574cac7a
     internalID: 0
     vertices: []
     indices: 
