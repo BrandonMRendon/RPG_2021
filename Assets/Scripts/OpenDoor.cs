@@ -13,6 +13,7 @@ public class OpenDoor : MonoBehaviour
             PlayerController player = collision.gameObject.GetComponent<PlayerController>();
             if (player.dirFacing == face && player.takeKey())
             {
+                GetComponent<AudioSource>().Play();
                 Destroy(this.gameObject);
             }
             else

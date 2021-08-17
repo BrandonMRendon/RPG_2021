@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8847399130455013940}
   - component: {fileID: -8577130504320440834}
   - component: {fileID: 3312809479276766683}
-  - component: {fileID: -8700720933335274099}
+  - component: {fileID: 3061056722203123970}
   m_Layer: 0
   m_Name: HerosSword
   m_TagString: Sword
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -895357113
-  m_SortingLayer: 2
+  m_SortingLayer: -7
   m_SortingOrder: 0
   m_Sprite: {fileID: -5011983550384569877, guid: 92fb709061d35894fa396ab3213e26e8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -95,7 +95,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0.88812494}
@@ -124,10 +124,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   trans: {fileID: 0}
-  speed: 10
+  speed: 0
   rotationZ: 0
   dir: 0
---- !u!114 &-8700720933335274099
+--- !u!114 &3061056722203123970
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -136,8 +136,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7109194589998795556}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be1da21fff017454ea928063fc4df26b, type: 3}
+  m_Script: {fileID: 11500000, guid: 5f23640b689c8c7458705cfa085d9412, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bullet: {fileID: 7109194589998795556}
-  playerTranform: {fileID: 0}
+  damage: 0

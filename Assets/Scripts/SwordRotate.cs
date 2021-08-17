@@ -31,6 +31,7 @@ public class SwordRotate : MonoBehaviour
 
     }
 
+
     // Update is called once per frame
     void Update()
     {
@@ -44,7 +45,7 @@ public class SwordRotate : MonoBehaviour
                 }
                 break;
             case direction.left:
-                if (trans.localEulerAngles.z < rotationZ - 180)
+                if (trans.localEulerAngles.z > rotationZ - 180)
                 {
                     Destroy(this.gameObject);
                 }

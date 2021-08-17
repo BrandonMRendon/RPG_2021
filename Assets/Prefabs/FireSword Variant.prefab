@@ -11,9 +11,13 @@ PrefabInstance:
       propertyPath: m_SpriteTilingProperty.oldSize.y
       value: 1.875
       objectReference: {fileID: 0}
+    - target: {fileID: 3312809479276766683, guid: eb1adf45c6fd6d444b076ffd9a299328, type: 3}
+      propertyPath: speed
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7109194589998795556, guid: eb1adf45c6fd6d444b076ffd9a299328, type: 3}
       propertyPath: m_Name
-      value: FireSword
+      value: FireSword Variant
       objectReference: {fileID: 0}
     - target: {fileID: 7532442357454863866, guid: eb1adf45c6fd6d444b076ffd9a299328, type: 3}
       propertyPath: m_RootOrder

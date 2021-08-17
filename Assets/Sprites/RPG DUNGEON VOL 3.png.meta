@@ -984,7 +984,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 119
-        y: 368
+        y: 367
         width: 16
         height: 16
       alignment: 0
@@ -1004,8 +1004,8 @@ TextureImporter:
       name: RPG DUNGEON VOL 3_9
       rect:
         serializedVersion: 2
-        x: 136
-        y: 368
+        x: 135
+        y: 367
         width: 16
         height: 16
       alignment: 0
@@ -1025,8 +1025,8 @@ TextureImporter:
       name: RPG DUNGEON VOL 3_10
       rect:
         serializedVersion: 2
-        x: 153
-        y: 368
+        x: 151
+        y: 367
         width: 16
         height: 16
       alignment: 0
@@ -1194,7 +1194,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 119
-        y: 351
+        y: 350
         width: 16
         height: 16
       alignment: 0
@@ -1235,8 +1235,8 @@ TextureImporter:
       name: RPG DUNGEON VOL 3_21
       rect:
         serializedVersion: 2
-        x: 153
-        y: 351
+        x: 151
+        y: 350
         width: 16
         height: 16
       alignment: 0
@@ -4025,27 +4025,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RPG DUNGEON VOL 3_6
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 351
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9808131da131e3d30800000000000000
-      internalID: 4412985690769424521
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: RPG DUNGEON VOL 3_22
       rect:
         serializedVersion: 2
@@ -4432,7 +4411,7 @@ TextureImporter:
         width: 24
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4453,7 +4432,7 @@ TextureImporter:
         width: 24
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -4474,7 +4453,7 @@ TextureImporter:
         width: 24
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

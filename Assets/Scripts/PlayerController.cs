@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Entity
 {
     [Header("Set in Inspector")]
     public float speed = 5;
@@ -18,14 +18,18 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private Vector2 mouse;
     public Text keyText;
-
+    public Slider healthBar, ManaBar;
+    public bool playerIsFrozen { get; set; }
 
 
     // Start is called before the first frame update
     void Start()
     {
+        SetHealth(startingHealth);
         rigid = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        playerIsFrozen = true;
+        StartCoroutine("ManaRegen");
     }
     void getCursorDirection()
     {
@@ -121,11 +125,36 @@ public class PlayerController : MonoBehaviour
         }
         
     }
+    IEnumerator ManaRegen()
+    {
+        while (true)
+        {
+            if (ManaBar.value != ManaBar.maxValue)
+            {
+                ManaBar.value += 2;
+            }
+            yield return new WaitForSeconds(1);
+        }
+        
+
+    }
     //velocity = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
 
     // Update is called once per frame
     void Update()
     {
+        if (playerIsFrozen)
+        {
+            if (dirHeld != -1)
+            {
+                dirFacing = dirHeld;
+                anim.CrossFade("Player_Walk_" + dirHeld, 0);
+            }
+            
+            anim.speed = 0;
+            return;
+        }
+        healthBar.value = getHealth();
         
         dirHeld = -1;
         // Delete the four "if ( Input.GetKey..." lines that were here
@@ -159,9 +188,10 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Break();
         }
-        if (Equipped2 != null && Input.GetButtonDown("Fire2"))
+        if (Equipped2 != null && Input.GetButtonDown("Fire2") && ManaBar.value>=10)
         {
             Equipped2.Action(FacingToVector());
+            ManaBar.value -= 10;
         }
         if (Equipped1 != null && Input.GetButtonDown("Fire1"))
         {

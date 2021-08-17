@@ -11,6 +11,8 @@ TagManager:
   - Sword
   - ColliderProjectile
   - ColliderProjectile1
+  - Spawn
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -57,14 +59,14 @@ TagManager:
   - name: Water
     uniqueID: 169691725
     locked: 0
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: Trees
     uniqueID: 3181238015
     locked: 0
   - name: Player
     uniqueID: 3399610183
+    locked: 0
+  - name: BossPieces
+    uniqueID: 184822587
     locked: 0
   - name: 2ndFloorGround
     uniqueID: 2419621951
@@ -80,4 +82,7 @@ TagManager:
     locked: 0
   - name: Tiles+
     uniqueID: 1790956239
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 9218346111794131822}
   - component: {fileID: 5974646012961753193}
   - component: {fileID: 6299632933950917038}
+  - component: {fileID: 3807072846973764849}
   m_Layer: 0
   m_Name: FireBall
   m_TagString: Projectile
@@ -72,7 +73,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -895357113
-  m_SortingLayer: 2
+  m_SortingLayer: -7
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 351dd33787a44ee4a924245940f16a2e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -136,3 +137,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bullet: {fileID: 3800686463760627864}
   playerTranform: {fileID: 0}
+--- !u!114 &3807072846973764849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3800686463760627864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f23640b689c8c7458705cfa085d9412, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 0

@@ -23,6 +23,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void LoadSceneNewGame()
     {
+        
         SceneManager.LoadScene("Intro");
     }
     public void LoadSceneBack()

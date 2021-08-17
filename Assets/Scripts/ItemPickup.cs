@@ -6,7 +6,8 @@ public class ItemPickup : MonoBehaviour
 {
     public Shoot projectile;
     public Swing sword;
-    public bool shoot, swing, key, slot1;
+    public int value;
+    public bool shoot, swing, key, slot1, health;
     public string printer = "nothing ";
     private IItem whatType()
     {
@@ -27,6 +28,14 @@ public class ItemPickup : MonoBehaviour
             if (key)
             {
                 collision.gameObject.GetComponent<PlayerController>().getKey();
+                GetComponent<AudioSource>().Play();
+                Destroy(this.gameObject);
+                return;
+            }
+            if (health)
+            {
+                collision.gameObject.GetComponent<PlayerController>().ModifyHealth(value);
+                GetComponent<AudioSource>().Play();
                 Destroy(this.gameObject);
                 return;
             }
