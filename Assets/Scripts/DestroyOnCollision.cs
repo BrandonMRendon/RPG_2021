@@ -8,7 +8,7 @@ public class DestroyOnCollision : MonoBehaviour
     public Transform playerTranform;
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (!collision.gameObject.CompareTag("Player") && !collision.gameObject.CompareTag("Projectile") && !collision.gameObject.CompareTag("ColliderProjectile") && !collision.gameObject.CompareTag("ColliderProjectile1"))
+        if (!collision.gameObject.CompareTag("Projectile") && !collision.gameObject.CompareTag("ColliderProjectile") && !collision.gameObject.CompareTag("ColliderProjectile1"))
         {
             Destroy(bullet);
         }

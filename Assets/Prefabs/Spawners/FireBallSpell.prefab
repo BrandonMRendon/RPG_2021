@@ -50,7 +50,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 3800686463760627864, guid: 11c13dbef59af1f47a00294a2d327f8f, type: 3}
   parent: {fileID: 0}
   setSpeed: 30
-  setDamage: 5
+  setDamage: 20
 --- !u!114 &8898982660355918078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -72,6 +72,7 @@ MonoBehaviour:
   slot1: 0
   health: 0
   printer: Book
+  audiosource: {fileID: 0}
 --- !u!61 &8898982660355918079
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -9,6 +9,7 @@ public class ItemPickup : MonoBehaviour
     public int value;
     public bool shoot, swing, key, slot1, health;
     public string printer = "nothing ";
+    public AudioSource audiosource;
     private IItem whatType()
     {
         if (shoot)
@@ -28,15 +29,19 @@ public class ItemPickup : MonoBehaviour
             if (key)
             {
                 collision.gameObject.GetComponent<PlayerController>().getKey();
-                GetComponent<AudioSource>().Play();
-                Destroy(this.gameObject);
+                audiosource.Play();
+                StartCoroutine("WaitForAudio");
+                GetComponent<SpriteRenderer>().enabled = false;
+                collision.isTrigger = false;
                 return;
             }
             if (health)
             {
                 collision.gameObject.GetComponent<PlayerController>().ModifyHealth(value);
-                GetComponent<AudioSource>().Play();
-                Destroy(this.gameObject);
+                audiosource.Play();
+                StartCoroutine("WaitForAudio");
+                GetComponent<SpriteRenderer>().enabled = false;
+                collision.isTrigger = false;
                 return;
             }
             gameObject.transform.parent = collision.gameObject.transform;
@@ -53,8 +58,13 @@ public class ItemPickup : MonoBehaviour
             }
             
             GetComponent<SpriteRenderer>().enabled = false;
-            Destroy(this);
+            
         }
+    }
+    IEnumerator WaitForAudio()
+    {
+        yield return new WaitForSeconds(1);
+        Destroy(this.gameObject);
     }
     void Update()
     {

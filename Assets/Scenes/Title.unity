@@ -387,7 +387,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The Princess of Atlantis
+  m_Text: Children of the Kings
 --- !u!222 &77674187
 CanvasRenderer:
   m_ObjectHideFlags: 0

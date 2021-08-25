@@ -17,6 +17,8 @@ public class Shoot : MonoBehaviour, IItem
         Damage = setDamage;
         audios = GetComponent<AudioSource>();
     }
+
+    //The function below is exclusively called by the player
     public void Action(Vector2 directionFacing)
     {
         
@@ -27,6 +29,7 @@ public class Shoot : MonoBehaviour, IItem
         projectile.GetComponent<DamageModifier>().damage = Damage;
         audios.Play();
         Collider2D col1 = projectile.GetComponent<Collider2D>();
+        Physics2D.IgnoreCollision(col1, player.GetComponent<Collider2D>());
         if (GameObject.FindGameObjectWithTag("ColliderProjectile") != null)
         {
             Collider2D col2 = GameObject.FindGameObjectWithTag("ColliderProjectile").GetComponent<Collider2D>();

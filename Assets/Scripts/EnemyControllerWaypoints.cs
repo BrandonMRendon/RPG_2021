@@ -19,6 +19,7 @@ public class EnemyControllerWaypoints : Entity
 
 
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -68,7 +69,8 @@ public class EnemyControllerWaypoints : Entity
         if(collision.gameObject.tag == "Player")
         {
             collision.gameObject.GetComponent<PlayerController>().ModifyHealth((-1)*damage);
-            Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
+            GetComponent<Collider2D>().isTrigger = true;
+            //Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>());
             Vector3 moveDirection = collision.gameObject.GetComponent<Transform>().position - transform.parent.position;
             collision.gameObject.GetComponent<Rigidbody2D>().AddForce(moveDirection * 500f);
             StartCoroutine("PlayerInvinc", collision);
@@ -83,7 +85,8 @@ public class EnemyControllerWaypoints : Entity
     IEnumerator PlayerInvinc(Collision2D collision)
     {
         yield return new WaitForSeconds(2);
-        Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>(), false);
+        //Physics2D.IgnoreCollision(collision.collider, GetComponent<Collider2D>(), false);
+        GetComponent<Collider2D>().isTrigger = false;
     }
     IEnumerator Death()
     {
@@ -101,6 +104,7 @@ public class EnemyControllerWaypoints : Entity
     // Update is called once per frame
     void Update()
     {
+        //print(GetComponent<Collider2D>().isTrigger);
         if (isDead)
         {
             if (isDying)

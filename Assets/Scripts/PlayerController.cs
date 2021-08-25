@@ -21,6 +21,13 @@ public class PlayerController : Entity
     public Slider healthBar, ManaBar;
     public bool playerIsFrozen { get; set; }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "Projectile")
+        {
+            SetHealth(getHealth() - collision.gameObject.GetComponent<DamageModifier>().damage);
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -131,9 +138,9 @@ public class PlayerController : Entity
         {
             if (ManaBar.value != ManaBar.maxValue)
             {
-                ManaBar.value += 2;
+                ManaBar.value += 5;
             }
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(.5f);
         }
         
 

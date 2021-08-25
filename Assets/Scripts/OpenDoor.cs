@@ -5,6 +5,7 @@ using UnityEngine;
 public class OpenDoor : MonoBehaviour
 {
     public bool up, down, left, right;
+    
     int face;
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -14,13 +15,18 @@ public class OpenDoor : MonoBehaviour
             if (player.dirFacing == face && player.takeKey())
             {
                 GetComponent<AudioSource>().Play();
-                Destroy(this.gameObject);
+                StartCoroutine("WaitForAudio");
             }
             else
             {
                 return;
             }
         }
+    }
+    IEnumerator WaitForAudio()
+    {
+        yield return new WaitForSeconds(1);
+        Destroy(this.gameObject);
     }
     void Start()
     {

@@ -132,6 +132,7 @@ MonoBehaviour:
   slot1: 0
   health: 0
   printer: 
+  audiosource: {fileID: -4635716669194964652}
 --- !u!82 &-4635716669194964652
 AudioSource:
   m_ObjectHideFlags: 0

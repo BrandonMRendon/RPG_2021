@@ -122,6 +122,7 @@ MonoBehaviour:
   slot1: 1
   health: 0
   printer: 
+  audiosource: {fileID: 6304320221322521530}
 --- !u!61 &8784926267217324759
 BoxCollider2D:
   m_ObjectHideFlags: 0

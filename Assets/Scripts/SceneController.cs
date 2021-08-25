@@ -17,19 +17,19 @@ public class SceneController : MonoBehaviour
 
     int nameIndex = 0;
     string[] names = new string[] { "Jeriah", "Captain J. Spark", "Marie", "Alyssa", "Captain J. Spark" };
-    string[] messages = new string[] { "On a small continent, isolated from the rest of the world, there once lived four kingdoms.", 
-        "Each of the four kingdoms guarded a gift, granted to them by the gods of old.",
+    string[] messages = new string[] { "On a small continent, isolated from the rest of the world, there once lived three kingdoms.", 
+        "Each of these kingdoms guarded a gift, granted to them by the gods of old.",
         "The power of these relics were without equal, and as such, the royal families of each kingdom built four strongholds to house such tremendous power, in fear it may fall into the hands of evil.",
-        "For many generations, these four kingdoms lived in prosperity…",
+        "For many generations, these three kingdoms lived in prosperity…",
         "Until…",
         "One dark and fateful day, malevolent forces rushed forth from the darkness of night.",
-        "They mounted an assault on the good people of the Kingdom of Tempus, all in the name of their leader...",
-        "The Goddess of Darkness.",
+        "They mounted an assault on the good people of the Kingdom of Restituo, all in the name of their leader...",
+        "She called herself, The Empress of Shadows.",
         "She burnt forest to ash, choked the land’s sweet springs, and murdered without hesitation.",
         "She did all this in her lust to take the ultimate power protected by the kingdom.",
-        "The benevolent king of Tempus was slain, and his son, Prince Andor fled with his remaining forces to retrieve the relic of Tempus, and take refuge in the neighboring kingdom of Imperium…",//Restituo?
+        "The benevolent king of Restituo was slain, and his son, Prince Andor fled with his remaining forces to retrieve the relic of his Kingdom, and take refuge in the neighboring kingdom of Imperium…",//Restituo?
         "Here, your highness, wear this cloak. It’ll make you less of a target.",
-        "Here we are, the stronghold of Tempus.",
+        "Here we are, the stronghold of Restituo.",
         "It seems we weren’t the first to arrive… the enemy’s forces have already begun their assault.",
         "The stronghold’s defenses won’t be able to hold for much longer, we must hurry.",
         "Prince Andor, make your way to the stronghold and retrieve the relic. We’ll buy you as much time out here as we can!"};
@@ -155,7 +155,7 @@ public class SceneController : MonoBehaviour
         text.fontSize = 40;
         anim.Play("TextFadeIn");
         
-        string dungeonName = "Stronghold of Tempus";
+        string dungeonName = "Stronghold of Restituo";
         for (int i = 0; i < dungeonName.Length; i++)
         {
             text.text += dungeonName[i];
