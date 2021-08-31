@@ -10,12 +10,21 @@ public class Shoot : MonoBehaviour, IItem
     GameObject player;
     AudioSource audios;
     public int setDamage;
+    public int setManaCost;
+    public Sprite setImage;
+    public string setItemName;
     public int Damage { get; set; }
+    public int usesMana { get; set; }
+    public string itemName { get; set; }
+    public Sprite sprite {get; set;}
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         Damage = setDamage;
         audios = GetComponent<AudioSource>();
+        sprite = setImage;
+        usesMana = setManaCost;
+        itemName = setItemName;
     }
 
     //The function below is exclusively called by the player

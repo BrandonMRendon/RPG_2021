@@ -101,6 +101,8 @@ MonoBehaviour:
   swordPrefab: {fileID: 3207074579762766794, guid: b126ba33058868042849315fc5378476, type: 3}
   setDamage: 50
   setSpeed: 20
+  setImage: {fileID: -8031226237286932740, guid: bef25a5b36bbead40ac363fe8f8f7bc5, type: 3}
+  setItemName: Ancient Sword
 --- !u!114 &5042132259735291319
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122,6 +124,7 @@ MonoBehaviour:
   slot1: 1
   health: 0
   printer: 
+  audiosource: {fileID: 0}
 --- !u!61 &5042132259735291318
 BoxCollider2D:
   m_ObjectHideFlags: 0

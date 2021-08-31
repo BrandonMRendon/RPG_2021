@@ -13,6 +13,11 @@ TagManager:
   - ColliderProjectile1
   - Spawn
   - Enemy
+  - InventoryCursor
+  - InventorySprite
+  - InventorySelector
+  - PickedItem
+  - ItemText
   layers:
   - Default
   - TransparentFX
@@ -50,11 +55,11 @@ TagManager:
   - name: Ground
     uniqueID: 3416556119
     locked: 0
-  - name: Walls
-    uniqueID: 729001139
-    locked: 0
   - name: Path
     uniqueID: 900379973
+    locked: 0
+  - name: Walls
+    uniqueID: 729001139
     locked: 0
   - name: Water
     uniqueID: 169691725

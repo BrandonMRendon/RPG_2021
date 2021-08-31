@@ -101,6 +101,8 @@ MonoBehaviour:
   swordPrefab: {fileID: 7721135588403355803, guid: 4c5582626c1952e4e8588eb4d1760e27, type: 3}
   setDamage: 10
   setSpeed: 10
+  setImage: {fileID: 4200114403576872956, guid: bef25a5b36bbead40ac363fe8f8f7bc5, type: 3}
+  setItemName: Sword of Flames
 --- !u!114 &3620695052421278119
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -122,6 +124,7 @@ MonoBehaviour:
   slot1: 1
   health: 0
   printer: 
+  audiosource: {fileID: 0}
 --- !u!61 &3620695052421278118
 BoxCollider2D:
   m_ObjectHideFlags: 0

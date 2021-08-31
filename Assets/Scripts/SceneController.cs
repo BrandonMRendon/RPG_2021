@@ -5,46 +5,44 @@ using UnityEngine.UI;
 
 public class SceneController : MonoBehaviour
 {
-    public AudioSource audioSource, audioSource2, rainAudio;
+    public AudioSource audioSource, audioSource2, rainAudio, speaker;
     public AudioClip rain, mission, stronghold, bells, bells2;
     public Animator anim, animNPC, fader;
     public Text text, dialogtext, dialogName;
     public GameObject dialogBox, dungeonUI, gameplayUI;
-    bool isAnimating = false;
+    public bool isAnimating = false;
     public int messageIndex = 0;
-    public bool skip;
+    public bool skip, started;
     PlayerController player;
+    public Collider2D colOne, colTwo;
 
     int nameIndex = 0;
-    string[] names = new string[] { "Jeriah", "Captain J. Spark", "Marie", "Alyssa", "Captain J. Spark" };
-    string[] messages = new string[] { "On a small continent, isolated from the rest of the world, there once lived three kingdoms.", 
-        "Each of these kingdoms guarded a gift, granted to them by the gods of old.",
-        "The power of these relics were without equal, and as such, the royal families of each kingdom built four strongholds to house such tremendous power, in fear it may fall into the hands of evil.",
-        "For many generations, these three kingdoms lived in prosperity…",
-        "Until…",
-        "One dark and fateful day, malevolent forces rushed forth from the darkness of night.",
-        "They mounted an assault on the good people of the Kingdom of Restituo, all in the name of their leader...",
-        "She called herself, The Empress of Shadows.",
-        "She burnt forest to ash, choked the land’s sweet springs, and murdered without hesitation.",
-        "She did all this in her lust to take the ultimate power protected by the kingdom.",
-        "The benevolent king of Restituo was slain, and his son, Prince Andor fled with his remaining forces to retrieve the relic of his Kingdom, and take refuge in the neighboring kingdom of Imperium…",//Restituo?
-        "Here, your highness, wear this cloak. It’ll make you less of a target.",
-        "Here we are, the stronghold of Restituo.",
-        "It seems we weren’t the first to arrive… the enemy’s forces have already begun their assault.",
-        "The stronghold’s defenses won’t be able to hold for much longer, we must hurry.",
-        "Prince Andor, make your way to the stronghold and retrieve the relic. We’ll buy you as much time out here as we can!"};
-    float[] textDelay = new float[] {10,10,20,10,5,10,15,7,10,10,30,5,5,5,5,5};
+    string[] names = new string[] { "Andor","Burkhart", "Burkhart", "Burkhart", "Burkhart", "Burkhart", "Burkhart", "Burkhart", "Knight", "Burkhart", "Knight", "Burkhart" };
+    string[] messages = new string[] { "There's... something going on out there?",
+        "Brother, I’m glad to see that you’re unharmed.",
+        "I’m afraid there isn’t much time to explain.",
+        "What’s important to know is that the castle is under attack.",
+        "By whom? It is as of yet unknown. Regardless, I have a task that I can only entrust to you.",
+        "Pick up your sword and spell book and make your way to the castle’s dungeon. ",
+        "Inside you’ll find a labyrinth, as well as the enemy’s forces, no doubt.",
+        "Retrieve that which we’ve guarded for generations, and go forth to inform Her Grace of the situation.",
+        "Your Majesty, they’ve breached the inner wall. It saddens me to say but we must retreat.",
+        "So the situation is as dire as I had feared. Captain, inform the royal guard to divert as much attention as they can from Prince Andor. His success is of utmost importance.",
+        "Yes sir!",
+        "Andor, my dear brother, please be cautious..."};
     // Start is called before the first frame update
     void Start()
     {
         rainAudio.PlayOneShot(rain);
+        started = false;
         if (!skip)
         {
-            StartCoroutine("Speaking");
+        
         }
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
         
     }
+
 
     // Update is called once per frame
     void Update()
@@ -62,87 +60,93 @@ public class SceneController : MonoBehaviour
             }
             return;
         }
-        if(messageIndex == 3)
+        
+        if(messageIndex<13)
         {
-            audioSource.Play();
-        }
-        if(messageIndex == 6)
-        {
-            audioSource2.Play();
-        }
-        if(messageIndex == 7)
-        {
-            
-            audioSource.Stop();
-            audioSource.clip = mission;
-        }
-        if(messageIndex == 10)
-        {
-            
-            audioSource.Play();
-            StartCoroutine(AudioFadeOut.FadeOut(audioSource2, 30));
-        }
-        if(messageIndex == 11)
-        {
-            fader.Play("FadeOut");
-            player.dirHeld = (int)PlayerController.walkingDirection.RIGHT;
-            dialogBox.SetActive(true);
-            animNPC.Play("Jeriah");
-            StartCoroutine("DialogSpeed");
-            gameplayUI.SetActive(true);
-            messageIndex += 1;
+            if (messageIndex == 0 && !started)
+            {
+                started = true;
+                player.dirHeld = (int)PlayerController.walkingDirection.UP;
+                audioSource.Play();
+                gameplayUI.SetActive(true);
+                fader.Play("FadeOut");
+                StartNextText();
 
-        }
-        if(messageIndex > 11 && messageIndex<16)
-        {
+
+            }
             if (Input.GetButtonDown("Submit")  && !isAnimating)
             {
-                if(messageIndex == 12)
+                if(messageIndex == 1)
                 {
-                    player.dirHeld = (int)PlayerController.walkingDirection.UP;
+                    
+                    animNPC.Play("Burkhart1");
+                    dialogBox.GetComponent<RectTransform>().anchoredPosition = new Vector3(0, 272, 0);
+                    dialogBox.SetActive(false);
+                    player.dirHeld = (int)PlayerController.walkingDirection.DOWN;
+                    return;
+                }
+                if(messageIndex < 8)
+                {
+                    StartNextText();
+                    return;
+                }
+                if (messageIndex == 8)
+                {
+                    dialogBox.SetActive(false);
                     animNPC.Play("Captain");
+                    return;
                 }
-                if (messageIndex == 13)
+                if (messageIndex < 10)
                 {
-                    player.dirHeld = (int)PlayerController.walkingDirection.LEFT;
-                    animNPC.Play("Marie");
+                    StartNextText();
+                    return;
                 }
-                if (messageIndex == 14)
+                if (messageIndex == 10)
                 {
-                    animNPC.Play("Alyssa");
-                }
-                if (messageIndex == 15)
-                {
-                    player.dirHeld = (int)PlayerController.walkingDirection.UP;
+                    StartNextText();
                     animNPC.Play("Captain2");
+                }
+                if(messageIndex == 11)
+                {
+                }
+                if (messageIndex == 12)
+                {
+                    dialogBox.SetActive(false);
+                    animNPC.Play("Burkhart2");
+                    GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().playerIsFrozen = false;
+                    dialogBox.SetActive(false);
                 }
                 
             }
             
         }
-        if(messageIndex == 17)
-        {
-            if (Input.GetButtonDown("Submit"))
-            {
-                animNPC.Play("AllExit");
-                GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>().playerIsFrozen = false;
-                dialogBox.SetActive(false);
-            }
-        }
     }
     public void StartNextText()
     {
+        dialogBox.SetActive(true);
         StartCoroutine("DialogSpeed");
         
         messageIndex += 1;
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        
         if(collision.gameObject.tag == "Player")
         {
-            StartCoroutine("EnterDungeon");
-            audioSource.Stop();
-            audioSource.PlayOneShot(stronghold);
+            if(colOne != null)
+            {
+                audioSource.Stop();
+                audioSource.PlayOneShot(mission);
+                Destroy(colOne);
+            }
+            else
+            {
+                StartCoroutine("EnterDungeon");
+                audioSource.Stop();
+                audioSource.PlayOneShot(stronghold);
+                Destroy(colTwo);
+            }
+            
         }
     }
     IEnumerator EnterDungeon()
@@ -155,7 +159,7 @@ public class SceneController : MonoBehaviour
         text.fontSize = 40;
         anim.Play("TextFadeIn");
         
-        string dungeonName = "Stronghold of Restituo";
+        string dungeonName = "Fahtum Castle";
         for (int i = 0; i < dungeonName.Length; i++)
         {
             text.text += dungeonName[i];
@@ -175,23 +179,10 @@ public class SceneController : MonoBehaviour
         for (int i = 0; i < messages[messageDex].Length; i++)
         {
             dialogtext.text += messages[messageDex][i];
+            speaker.Play();
             yield return new WaitForSeconds(.05f);
         }
-        if (messageIndex == 16) messageIndex = 17;
-        isAnimating = false;
-    }
-    IEnumerator Speaking()
-    {
-
-        Cursor.visible = false;
-        for (messageIndex = 0; messageIndex < 11; messageIndex++)
-        {
-            text.text = messages[messageIndex];
-            anim.Play("TextFadeIn");
-            yield return new WaitForSeconds(textDelay[messageIndex]/1.5f);
-            anim.Play("TextIntro");
-            yield return new WaitForSeconds(1);
-        }
         
+        isAnimating = false;
     }
 }

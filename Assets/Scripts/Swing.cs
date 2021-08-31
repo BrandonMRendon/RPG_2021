@@ -10,12 +10,20 @@ public class Swing : MonoBehaviour, IItem
     GameObject player;
     AudioSource swish;
     public int setDamage,setSpeed;
+    public Sprite setImage;
+    public string setItemName;
+    public Sprite sprite { get; set; }
+    public int usesMana { get; set; }
     public int Damage { get; set; }
+    public string itemName { get; set; }
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         Damage = setDamage;
+        sprite = setImage;
         swish = GetComponent<AudioSource>();
+        usesMana = 0;
+        itemName = setItemName;
     }
     public void Action(Vector2 directionFacing)
     {

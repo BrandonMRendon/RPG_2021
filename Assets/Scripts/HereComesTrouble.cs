@@ -52,7 +52,7 @@ public class HereComesTrouble : MonoBehaviour
             dialogBox.SetActive(true);
             nameBox.SetActive(false);
             started = true;
-            dialogtext.text = "Is this the Relic?";
+            dialogtext.text = "Is this what Burkhart was talking about?";
 
         }
     }

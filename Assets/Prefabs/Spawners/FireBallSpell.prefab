@@ -51,6 +51,9 @@ MonoBehaviour:
   parent: {fileID: 0}
   setSpeed: 30
   setDamage: 20
+  setManaCost: 10
+  setImage: {fileID: 8878578716250249446, guid: 5801a330376fede4499595363ac5a9fb, type: 3}
+  setItemName: Fireball Spell
 --- !u!114 &8898982660355918078
 MonoBehaviour:
   m_ObjectHideFlags: 0

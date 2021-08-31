@@ -101,6 +101,8 @@ MonoBehaviour:
   swordPrefab: {fileID: 7109194589998795556, guid: eb1adf45c6fd6d444b076ffd9a299328, type: 3}
   setDamage: 10
   setSpeed: 10
+  setImage: {fileID: 3520792910835794489, guid: bef25a5b36bbead40ac363fe8f8f7bc5, type: 3}
+  setItemName: Hero's Sword
 --- !u!114 &8784926267217324757
 MonoBehaviour:
   m_ObjectHideFlags: 0

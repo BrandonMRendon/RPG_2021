@@ -1,0 +1,3886 @@
+fileFormatVersion: 2
+guid: f9c487aa4fb29f04bad23380f0fbc37c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4079752495112953863
+    second: OGA_16x18_charas_poses_Attack sheet_0
+  - first:
+      213: -3624514110637098239
+    second: OGA_16x18_charas_poses_Attack sheet_1
+  - first:
+      213: 832836800154023140
+    second: OGA_16x18_charas_poses_Attack sheet_2
+  - first:
+      213: 3830529007195830492
+    second: OGA_16x18_charas_poses_Attack sheet_3
+  - first:
+      213: 1883758035005712828
+    second: OGA_16x18_charas_poses_Attack sheet_4
+  - first:
+      213: 8456332611024720911
+    second: OGA_16x18_charas_poses_Attack sheet_5
+  - first:
+      213: -1508656634457116008
+    second: OGA_16x18_charas_poses_Attack sheet_6
+  - first:
+      213: 4883089680756080895
+    second: OGA_16x18_charas_poses_Attack sheet_7
+  - first:
+      213: 7414986940576864154
+    second: OGA_16x18_charas_poses_Attack sheet_8
+  - first:
+      213: -3658735667702087986
+    second: OGA_16x18_charas_poses_Attack sheet_9
+  - first:
+      213: -5371689565069464391
+    second: OGA_16x18_charas_poses_Attack sheet_10
+  - first:
+      213: -7749480697746933983
+    second: OGA_16x18_charas_poses_Attack sheet_11
+  - first:
+      213: 7617580436639335470
+    second: OGA_16x18_charas_poses_Attack sheet_12
+  - first:
+      213: -7279927704687602650
+    second: OGA_16x18_charas_poses_Attack sheet_13
+  - first:
+      213: 9021993830831484370
+    second: OGA_16x18_charas_poses_Attack sheet_14
+  - first:
+      213: 3287825367985253523
+    second: OGA_16x18_charas_poses_Attack sheet_15
+  - first:
+      213: -1969025161666936609
+    second: OGA_16x18_charas_poses_Attack sheet_16
+  - first:
+      213: 7652251271119622097
+    second: OGA_16x18_charas_poses_Attack sheet_17
+  - first:
+      213: -5511660064085348153
+    second: OGA_16x18_charas_poses_Attack sheet_18
+  - first:
+      213: 3425469992295810087
+    second: OGA_16x18_charas_poses_Attack sheet_19
+  - first:
+      213: 2785612924505340135
+    second: OGA_16x18_charas_poses_Attack sheet_20
+  - first:
+      213: 4303997156642544896
+    second: OGA_16x18_charas_poses_Attack sheet_21
+  - first:
+      213: -4953468394251282408
+    second: OGA_16x18_charas_poses_Attack sheet_22
+  - first:
+      213: -5027592733506295412
+    second: OGA_16x18_charas_poses_Attack sheet_23
+  - first:
+      213: -2115235625990436028
+    second: OGA_16x18_charas_poses_Attack sheet_24
+  - first:
+      213: 6378066043469471641
+    second: OGA_16x18_charas_poses_Attack sheet_25
+  - first:
+      213: -6578653169855467693
+    second: OGA_16x18_charas_poses_Attack sheet_26
+  - first:
+      213: 650564370258952882
+    second: OGA_16x18_charas_poses_Attack sheet_27
+  - first:
+      213: 6735733353247027807
+    second: OGA_16x18_charas_poses_Attack sheet_28
+  - first:
+      213: -7739162695542461093
+    second: OGA_16x18_charas_poses_Attack sheet_29
+  - first:
+      213: -2973030805505236230
+    second: OGA_16x18_charas_poses_Attack sheet_30
+  - first:
+      213: -8907328239806857517
+    second: OGA_16x18_charas_poses_Attack sheet_31
+  - first:
+      213: 3895926665136666982
+    second: OGA_16x18_charas_poses_Attack sheet_32
+  - first:
+      213: -947344323290033290
+    second: OGA_16x18_charas_poses_Attack sheet_33
+  - first:
+      213: 9017847676838841003
+    second: OGA_16x18_charas_poses_Attack sheet_34
+  - first:
+      213: 4664623612604869553
+    second: OGA_16x18_charas_poses_Attack sheet_35
+  - first:
+      213: 8389057943658640133
+    second: OGA_16x18_charas_poses_Attack sheet_36
+  - first:
+      213: -310715747341875706
+    second: OGA_16x18_charas_poses_Attack sheet_37
+  - first:
+      213: 5692770533284558311
+    second: OGA_16x18_charas_poses_Attack sheet_38
+  - first:
+      213: 6725751106719036185
+    second: OGA_16x18_charas_poses_Attack sheet_39
+  - first:
+      213: 2912134848650813438
+    second: OGA_16x18_charas_poses_Attack sheet_40
+  - first:
+      213: 359236131434265733
+    second: OGA_16x18_charas_poses_Attack sheet_41
+  - first:
+      213: -4191425007341368344
+    second: OGA_16x18_charas_poses_Attack sheet_42
+  - first:
+      213: 435714146821607195
+    second: OGA_16x18_charas_poses_Attack sheet_43
+  - first:
+      213: 459702454536666512
+    second: OGA_16x18_charas_poses_Attack sheet_44
+  - first:
+      213: -5333188236813464353
+    second: OGA_16x18_charas_poses_Attack sheet_45
+  - first:
+      213: -5288418870547337789
+    second: OGA_16x18_charas_poses_Attack sheet_46
+  - first:
+      213: 5067457170671398494
+    second: OGA_16x18_charas_poses_Attack sheet_47
+  - first:
+      213: 3731993500348070842
+    second: OGA_16x18_charas_poses_Attack sheet_48
+  - first:
+      213: -794819507907324259
+    second: OGA_16x18_charas_poses_Attack sheet_49
+  - first:
+      213: -6540431065065297011
+    second: OGA_16x18_charas_poses_Attack sheet_50
+  - first:
+      213: -2095754311613265906
+    second: OGA_16x18_charas_poses_Attack sheet_51
+  - first:
+      213: 2466185390515483769
+    second: OGA_16x18_charas_poses_Attack sheet_52
+  - first:
+      213: 5028279186292662100
+    second: OGA_16x18_charas_poses_Attack sheet_53
+  - first:
+      213: 1071414622088647006
+    second: OGA_16x18_charas_poses_Attack sheet_54
+  - first:
+      213: 4780478267332572156
+    second: OGA_16x18_charas_poses_Attack sheet_55
+  - first:
+      213: -7189382187384657168
+    second: OGA_16x18_charas_poses_Attack sheet_56
+  - first:
+      213: 918006490366738010
+    second: OGA_16x18_charas_poses_Attack sheet_57
+  - first:
+      213: -3242321442517760414
+    second: OGA_16x18_charas_poses_Attack sheet_58
+  - first:
+      213: 4863404326225306404
+    second: OGA_16x18_charas_poses_Attack sheet_59
+  - first:
+      213: -8239842891046164120
+    second: OGA_16x18_charas_poses_Attack sheet_60
+  - first:
+      213: -8104929240254483795
+    second: OGA_16x18_charas_poses_Attack sheet_61
+  - first:
+      213: -8369263168903173046
+    second: OGA_16x18_charas_poses_Attack sheet_62
+  - first:
+      213: -9001211237856586712
+    second: OGA_16x18_charas_poses_Attack sheet_63
+  - first:
+      213: 4663286661096939164
+    second: OGA_16x18_charas_poses_Attack sheet_64
+  - first:
+      213: 5464887571505385241
+    second: OGA_16x18_charas_poses_Attack sheet_65
+  - first:
+      213: 8503315881376557332
+    second: OGA_16x18_charas_poses_Attack sheet_66
+  - first:
+      213: -6677485763203771728
+    second: OGA_16x18_charas_poses_Attack sheet_67
+  - first:
+      213: 5680591939227200341
+    second: OGA_16x18_charas_poses_Attack sheet_68
+  - first:
+      213: 2891813647877886588
+    second: OGA_16x18_charas_poses_Attack sheet_69
+  - first:
+      213: -3582611872683521002
+    second: OGA_16x18_charas_poses_Attack sheet_70
+  - first:
+      213: 6656656423934022654
+    second: OGA_16x18_charas_poses_Attack sheet_71
+  - first:
+      213: 7501240306587946720
+    second: OGA_16x18_charas_poses_Attack sheet_72
+  - first:
+      213: -2878909684725627516
+    second: OGA_16x18_charas_poses_Attack sheet_73
+  - first:
+      213: -7886847399162173797
+    second: OGA_16x18_charas_poses_Attack sheet_74
+  - first:
+      213: -2777869687198043045
+    second: OGA_16x18_charas_poses_Attack sheet_75
+  - first:
+      213: 8405840720879994071
+    second: OGA_16x18_charas_poses_Attack sheet_76
+  - first:
+      213: -652772934220239486
+    second: OGA_16x18_charas_poses_Attack sheet_77
+  - first:
+      213: 5309846858153723470
+    second: OGA_16x18_charas_poses_Attack sheet_78
+  - first:
+      213: -2631003517648053840
+    second: OGA_16x18_charas_poses_Attack sheet_79
+  - first:
+      213: -3492048338115611894
+    second: OGA_16x18_charas_poses_Attack sheet_80
+  - first:
+      213: -5940042220823065799
+    second: OGA_16x18_charas_poses_Attack sheet_81
+  - first:
+      213: 3781882273994332215
+    second: OGA_16x18_charas_poses_Attack sheet_82
+  - first:
+      213: 3454166055487276726
+    second: OGA_16x18_charas_poses_Attack sheet_83
+  - first:
+      213: -3192405010243651706
+    second: OGA_16x18_charas_poses_Attack sheet_84
+  - first:
+      213: 253691812730792363
+    second: OGA_16x18_charas_poses_Attack sheet_85
+  - first:
+      213: 7271109701833683977
+    second: OGA_16x18_charas_poses_Attack sheet_86
+  - first:
+      213: 8495780777255983943
+    second: OGA_16x18_charas_poses_Attack sheet_87
+  - first:
+      213: -8240769663687150223
+    second: OGA_16x18_charas_poses_Attack sheet_88
+  - first:
+      213: -7764773189528503854
+    second: OGA_16x18_charas_poses_Attack sheet_89
+  - first:
+      213: -392540538424079338
+    second: OGA_16x18_charas_poses_Attack sheet_90
+  - first:
+      213: -1339021154836160732
+    second: OGA_16x18_charas_poses_Attack sheet_91
+  - first:
+      213: 3338978508743231907
+    second: OGA_16x18_charas_poses_Attack sheet_92
+  - first:
+      213: 3942977477888110123
+    second: OGA_16x18_charas_poses_Attack sheet_93
+  - first:
+      213: -3406605893391737549
+    second: OGA_16x18_charas_poses_Attack sheet_94
+  - first:
+      213: -5997034723602465694
+    second: OGA_16x18_charas_poses_Attack sheet_95
+  - first:
+      213: 5375081544218426249
+    second: OGA_16x18_charas_poses_Attack sheet_96
+  - first:
+      213: -748237293614744291
+    second: OGA_16x18_charas_poses_Attack sheet_97
+  - first:
+      213: 3494233800400981470
+    second: OGA_16x18_charas_poses_Attack sheet_98
+  - first:
+      213: -5766041826154957079
+    second: OGA_16x18_charas_poses_Attack sheet_99
+  - first:
+      213: 5267097693126979139
+    second: OGA_16x18_charas_poses_Attack sheet_100
+  - first:
+      213: -2744525918588735960
+    second: OGA_16x18_charas_poses_Attack sheet_101
+  - first:
+      213: -4398224528003280192
+    second: OGA_16x18_charas_poses_Attack sheet_102
+  - first:
+      213: -1984987810841508339
+    second: OGA_16x18_charas_poses_Attack sheet_103
+  - first:
+      213: -4771563326679833487
+    second: OGA_16x18_charas_poses_Attack sheet_104
+  - first:
+      213: 7513233119397042289
+    second: OGA_16x18_charas_poses_Attack sheet_105
+  - first:
+      213: -8910020622671197099
+    second: OGA_16x18_charas_poses_Attack sheet_106
+  - first:
+      213: -8684593926136039047
+    second: OGA_16x18_charas_poses_Attack sheet_107
+  - first:
+      213: 9093801645308398006
+    second: OGA_16x18_charas_poses_Attack sheet_108
+  - first:
+      213: -3565861216497628357
+    second: OGA_16x18_charas_poses_Attack sheet_109
+  - first:
+      213: 9099148552203854334
+    second: OGA_16x18_charas_poses_Attack sheet_110
+  - first:
+      213: 6526336143320956055
+    second: OGA_16x18_charas_poses_Attack sheet_111
+  - first:
+      213: 5673990192633644076
+    second: OGA_16x18_charas_poses_Attack sheet_112
+  - first:
+      213: -8845404724970019096
+    second: OGA_16x18_charas_poses_Attack sheet_113
+  - first:
+      213: 5041060874481491930
+    second: OGA_16x18_charas_poses_Attack sheet_114
+  - first:
+      213: 6465725152078011407
+    second: OGA_16x18_charas_poses_Attack sheet_115
+  - first:
+      213: -8848739679979336702
+    second: OGA_16x18_charas_poses_Attack sheet_116
+  - first:
+      213: 4670792554708465688
+    second: OGA_16x18_charas_poses_Attack sheet_117
+  - first:
+      213: -5161501432356585166
+    second: OGA_16x18_charas_poses_Attack sheet_44
+  - first:
+      213: 1854592267131493632
+    second: OGA_16x18_charas_poses_Attack sheet_45
+  - first:
+      213: 4462223674005273718
+    second: OGA_16x18_charas_poses_Attack sheet_46
+  - first:
+      213: -2766753405995432318
+    second: OGA_16x18_charas_poses_Attack sheet_47
+  - first:
+      213: -5565230634825778141
+    second: OGA_16x18_charas_poses_Attack sheet_53
+  - first:
+      213: 5267077042834910549
+    second: OGA_16x18_charas_poses_Attack sheet_54
+  - first:
+      213: 9223188953379112493
+    second: OGA_16x18_charas_poses_Attack sheet_55
+  - first:
+      213: 6438999357379478741
+    second: OGA_16x18_charas_poses_Attack sheet_56
+  - first:
+      213: 1442643301421800430
+    second: OGA_16x18_charas_poses_Attack sheet_57
+  - first:
+      213: -5236331521660327218
+    second: OGA_16x18_charas_poses_Attack sheet_58
+  - first:
+      213: 2635249908595018016
+    second: OGA_16x18_charas_poses_Attack sheet_59
+  - first:
+      213: -3733496761770144671
+    second: OGA_16x18_charas_poses_Attack sheet_60
+  - first:
+      213: -4587301814344893941
+    second: OGA_16x18_charas_poses_Attack sheet_61
+  - first:
+      213: -2390060544639181691
+    second: OGA_16x18_charas_poses_Attack sheet_62
+  - first:
+      213: 5068805434891587660
+    second: OGA_16x18_charas_poses_Attack sheet_63
+  - first:
+      213: 1005869708664496690
+    second: OGA_16x18_charas_poses_Attack sheet_64
+  - first:
+      213: 2101116760402610059
+    second: OGA_16x18_charas_poses_Attack sheet_65
+  - first:
+      213: 1443480906854920001
+    second: OGA_16x18_charas_poses_Attack sheet_66
+  - first:
+      213: 5309938929635336858
+    second: OGA_16x18_charas_poses_Attack sheet_67
+  - first:
+      213: -2170812895966018851
+    second: OGA_16x18_charas_poses_Attack sheet_68
+  - first:
+      213: -2906152817371407327
+    second: OGA_16x18_charas_poses_Attack sheet_69
+  - first:
+      213: 3240821691072097366
+    second: OGA_16x18_charas_poses_Attack sheet_70
+  - first:
+      213: -7866101745203294592
+    second: OGA_16x18_charas_poses_Attack sheet_71
+  - first:
+      213: 9144701048020005862
+    second: OGA_16x18_charas_poses_Attack sheet_72
+  - first:
+      213: -2172957904817401309
+    second: OGA_16x18_charas_poses_Attack sheet_73
+  - first:
+      213: 7827599950729285917
+    second: OGA_16x18_charas_poses_Attack sheet_74
+  - first:
+      213: 8228740741699355181
+    second: OGA_16x18_charas_poses_Attack sheet_75
+  - first:
+      213: 7275845792226891627
+    second: OGA_16x18_charas_poses_Attack sheet_76
+  - first:
+      213: 98156000662845266
+    second: OGA_16x18_charas_poses_Attack sheet_77
+  - first:
+      213: 1996898164288878231
+    second: OGA_16x18_charas_poses_Attack sheet_78
+  - first:
+      213: -5489346375278024140
+    second: OGA_16x18_charas_poses_Attack sheet_79
+  - first:
+      213: -7512870302234481409
+    second: OGA_16x18_charas_poses_Attack sheet_80
+  - first:
+      213: -1684541732134098377
+    second: OGA_16x18_charas_poses_Attack sheet_81
+  - first:
+      213: 6489858709043466269
+    second: OGA_16x18_charas_poses_Attack sheet_82
+  - first:
+      213: -6056340972083802685
+    second: OGA_16x18_charas_poses_Attack sheet_83
+  - first:
+      213: -7339398334952675913
+    second: OGA_16x18_charas_poses_Attack sheet_84
+  - first:
+      213: 839631054642786215
+    second: OGA_16x18_charas_poses_Attack sheet_85
+  - first:
+      213: -1649884921559437358
+    second: OGA_16x18_charas_poses_Attack sheet_86
+  - first:
+      213: -8867543110798104930
+    second: OGA_16x18_charas_poses_Attack sheet_87
+  - first:
+      213: 7252115353238595103
+    second: OGA_16x18_charas_poses_Attack sheet_88
+  - first:
+      213: -5742055582371555059
+    second: OGA_16x18_charas_poses_Attack sheet_89
+  - first:
+      213: 8063030417505668668
+    second: OGA_16x18_charas_poses_Attack sheet_90
+  - first:
+      213: 3415831719575414521
+    second: OGA_16x18_charas_poses_Attack sheet_91
+  - first:
+      213: 8323545921630708522
+    second: OGA_16x18_charas_poses_Attack sheet_92
+  - first:
+      213: 3283156747539405769
+    second: OGA_16x18_charas_poses_Attack sheet_93
+  - first:
+      213: -825960549065930983
+    second: OGA_16x18_charas_poses_Attack sheet_94
+  - first:
+      213: -1294316517499553445
+    second: OGA_16x18_charas_poses_Attack sheet_95
+  - first:
+      213: 154555797122077840
+    second: OGA_16x18_charas_poses_Attack sheet_96
+  - first:
+      213: 6678111617227410161
+    second: OGA_16x18_charas_poses_Attack sheet_97
+  - first:
+      213: -8865713950496206231
+    second: OGA_16x18_charas_poses_Attack sheet_98
+  - first:
+      213: -8844362010746275123
+    second: OGA_16x18_charas_poses_Attack sheet_99
+  - first:
+      213: -1783889538565230591
+    second: OGA_16x18_charas_poses_Attack sheet_100
+  - first:
+      213: -6442702928477446820
+    second: OGA_16x18_charas_poses_Attack sheet_101
+  - first:
+      213: 4505262250268563286
+    second: OGA_16x18_charas_poses_Attack sheet_102
+  - first:
+      213: -6924266768783663298
+    second: OGA_16x18_charas_poses_Attack sheet_103
+  - first:
+      213: 8768120176314181366
+    second: OGA_16x18_charas_poses_Attack sheet_104
+  - first:
+      213: 4369240705275150752
+    second: OGA_16x18_charas_poses_Attack sheet_105
+  - first:
+      213: -4450071685121421712
+    second: OGA_16x18_charas_poses_Attack sheet_106
+  - first:
+      213: 5957784294460851091
+    second: OGA_16x18_charas_poses_Attack sheet_107
+  - first:
+      213: -7191743641152115280
+    second: OGA_16x18_charas_poses_Attack sheet_108
+  - first:
+      213: 5974561675742321647
+    second: OGA_16x18_charas_poses_Attack sheet_109
+  - first:
+      213: 3599526270292128115
+    second: OGA_16x18_charas_poses_Attack sheet_110
+  - first:
+      213: 662913180200246809
+    second: OGA_16x18_charas_poses_Attack sheet_111
+  - first:
+      213: 2640810760932208538
+    second: OGA_16x18_charas_poses_Attack sheet_112
+  - first:
+      213: 6600318956798166389
+    second: OGA_16x18_charas_poses_Attack sheet_113
+  - first:
+      213: -6760104132382611140
+    second: OGA_16x18_charas_poses_Attack sheet_114
+  - first:
+      213: -8592960750792597882
+    second: OGA_16x18_charas_poses_Attack sheet_115
+  - first:
+      213: 4996453154161184179
+    second: OGA_16x18_charas_poses_Attack sheet_116
+  - first:
+      213: -3980341310738318876
+    second: OGA_16x18_charas_poses_Attack sheet_118
+  - first:
+      213: -4956286890484432046
+    second: OGA_16x18_charas_poses_Attack sheet_119
+  - first:
+      213: 6445794268338341343
+    second: OGA_16x18_charas_poses_Attack sheet_120
+  - first:
+      213: 1282734650632484305
+    second: OGA_16x18_charas_poses_Attack sheet_121
+  - first:
+      213: -3216000941066100007
+    second: OGA_16x18_charas_poses_Attack sheet_122
+  - first:
+      213: 6559807268217228966
+    second: OGA_16x18_charas_poses_Attack sheet_123
+  - first:
+      213: 3555557514312654722
+    second: OGA_16x18_charas_poses_Attack sheet_124
+  - first:
+      213: 5661491283178522167
+    second: OGA_16x18_charas_poses_Attack sheet_125
+  - first:
+      213: 5258817522771320847
+    second: OGA_16x18_charas_poses_Attack sheet_126
+  - first:
+      213: 5222744334691529745
+    second: OGA_16x18_charas_poses_Attack sheet_127
+  - first:
+      213: -951739977731039919
+    second: OGA_16x18_charas_poses_Attack sheet_128
+  - first:
+      213: -6703487950953514309
+    second: OGA_16x18_charas_poses_Attack sheet_129
+  - first:
+      213: -402681259994522806
+    second: OGA_16x18_charas_poses_Attack sheet_130
+  - first:
+      213: -6860413261439662890
+    second: OGA_16x18_charas_poses_Attack sheet_131
+  - first:
+      213: -1187560656002593896
+    second: OGA_16x18_charas_poses_Attack sheet_132
+  - first:
+      213: -1654092514408358435
+    second: OGA_16x18_charas_poses_Attack sheet_133
+  - first:
+      213: 6428117969664272231
+    second: OGA_16x18_charas_poses_Attack sheet_134
+  - first:
+      213: -6777629229478123434
+    second: OGA_16x18_charas_poses_Attack sheet_135
+  - first:
+      213: -7956710440733309289
+    second: OGA_16x18_charas_poses_Attack sheet_136
+  - first:
+      213: -100225938967478417
+    second: OGA_16x18_charas_poses_Attack sheet_137
+  - first:
+      213: -6134512571762833856
+    second: OGA_16x18_charas_poses_Attack sheet_138
+  - first:
+      213: -4248352537209207660
+    second: OGA_16x18_charas_poses_Attack sheet_139
+  - first:
+      213: -8414677711250538363
+    second: OGA_16x18_charas_poses_Attack sheet_140
+  - first:
+      213: -2398173619367099855
+    second: OGA_16x18_charas_poses_Attack sheet_141
+  - first:
+      213: 6113173161079241747
+    second: OGA_16x18_charas_poses_Attack sheet_142
+  - first:
+      213: 5044709917522418022
+    second: OGA_16x18_charas_poses_Attack sheet_143
+  - first:
+      213: 289151205899829261
+    second: OGA_16x18_charas_poses_Attack sheet_144
+  - first:
+      213: 5605493319325962156
+    second: OGA_16x18_charas_poses_Attack sheet_145
+  - first:
+      213: -5101602164895061489
+    second: OGA_16x18_charas_poses_Attack sheet_146
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1169
+        width: 560
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a8b267413e9830800000000000000
+      internalID: 4079752495112953863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1139
+        width: 133
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb510be9323bdc0800000000000000
+      internalID: -3624514110637098239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1155
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4bd0d38a4de8b00800000000000000
+      internalID: 832836800154023140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1155
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bcb746d5c82530800000000000000
+      internalID: 3830529007195830492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ad47c3f3742a10800000000000000
+      internalID: 1883758035005712828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1155
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041ea6c4bdea5570800000000000000
+      internalID: 8456332611024720911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b52fb8cc201be0800000000000000
+      internalID: -1508656634457116008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff087d3613834c340800000000000000
+      internalID: 4883089680756080895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1155
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a979e3f065357e660800000000000000
+      internalID: 7414986940576864154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb0978b4f893dc0800000000000000
+      internalID: -3658735667702087986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1155
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcac5e0dcce375b0800000000000000
+      internalID: -5371689565069464391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1155
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1273c092d50547490800000000000000
+      internalID: -7749480697746933983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_12
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1155
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e244ad52c0517b960800000000000000
+      internalID: 7617580436639335470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6241293c25088fa90800000000000000
+      internalID: -7279927704687602650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde97ca69f843d70800000000000000
+      internalID: 9021993830831484370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1154
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c6746a0c3b0ad20800000000000000
+      internalID: 3287825367985253523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_16
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0490d3c0e9ca4e0800000000000000
+      internalID: -1969025161666936609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1155
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfcd1bdcf1423a60800000000000000
+      internalID: 7652251271119622097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c07c7daf56a283b0800000000000000
+      internalID: -5511660064085348153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1155
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7244d8f1fc6b98f20800000000000000
+      internalID: 3425469992295810087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1155
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b0ee223c78a620800000000000000
+      internalID: 2785612924505340135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d58f34c9edabb30800000000000000
+      internalID: 4303997156642544896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1155
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81817827dbeb14bb0800000000000000
+      internalID: -4953468394251282408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1155
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a504db076a3ab0800000000000000
+      internalID: -5027592733506295412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1155
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bc698b76c25a2e0800000000000000
+      internalID: -2115235625990436028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1155
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9afa2641738850800000000000000
+      internalID: 6378066043469471641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1155
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f64461ccde3b4a0800000000000000
+      internalID: -6578653169855467693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1154
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b28fc019d4470900800000000000000
+      internalID: 650564370258952882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f523a0e1cc12a7d50800000000000000
+      internalID: 6735733353247027807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dac314888f89490800000000000000
+      internalID: -7739162695542461093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_30
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1155
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af22193fb3cadb6d0800000000000000
+      internalID: -2973030805505236230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_31
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1155
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb180b820d26480800000000000000
+      internalID: -8907328239806857517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669717219ac111630800000000000000
+      internalID: 3895926665136666982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_33
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1155
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67390527b5b5ad2f0800000000000000
+      internalID: -947344323290033290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1155
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8f88fea4d52d70800000000000000
+      internalID: 9017847676838841003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_35
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1155
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb663026721cb040800000000000000
+      internalID: 4664623612604869553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1155
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50331fba0cbeb6470800000000000000
+      internalID: 8389057943658640133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1155
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606419d8cad10bbf0800000000000000
+      internalID: -310715747341875706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1155
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5bc3073a8c00f40800000000000000
+      internalID: 5692770533284558311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 560
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913bdab3ffaa65d50800000000000000
+      internalID: 6725751106719036185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1061
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff1ed7373bf96820800000000000000
+      internalID: 2912134848650813438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1039
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cff94bb534cf400800000000000000
+      internalID: 359236131434265733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1037
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb8ab6b92115d5c0800000000000000
+      internalID: -4191425007341368344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_43
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1022
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f0ae045b7fb0600800000000000000
+      internalID: 435714146821607195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1001
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23147b84bc9ae58b0800000000000000
+      internalID: -5161501432356585166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1000
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1f8547d5dcb910800000000000000
+      internalID: 1854592267131493632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1000
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3c652ac00ded30800000000000000
+      internalID: 4462223674005273718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1000
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864a86af648a99d0800000000000000
+      internalID: -2766753405995432318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 940
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb305cc054bac330800000000000000
+      internalID: 3731993500348070842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_49
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 940
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9612a26edb38f4f0800000000000000
+      internalID: -794819507907324259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 940
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b6ad85998bb35a0800000000000000
+      internalID: -6540431065065297011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 940
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e084ccfae826ae2e0800000000000000
+      internalID: -2095754311613265906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_52
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 940
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974fee7db86a93220800000000000000
+      internalID: 2466185390515483769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_53
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 980
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c7616393454c2b0800000000000000
+      internalID: -5565230634825778141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_54
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 980
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d2ace0aaa681940800000000000000
+      internalID: 5267077042834910549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 980
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26087e8c795fff70800000000000000
+      internalID: 9223188953379112493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 980
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4829ddccbeb5950800000000000000
+      internalID: 6438999357379478741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_57
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 961
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd7de607c450410800000000000000
+      internalID: 1442643301421800430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 960
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca614d6930d457b0800000000000000
+      internalID: -5236331521660327218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_59
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 960
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029cf2864d9429420800000000000000
+      internalID: 2635249908595018016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_60
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 960
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c8e90e974ff2cc0800000000000000
+      internalID: -3733496761770144671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_61
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 940
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ab77eed41a650c0800000000000000
+      internalID: -4587301814344893941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 940
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cda15099cc4ded0800000000000000
+      internalID: -2390060544639181691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_63
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 940
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c405846ffa3085640800000000000000
+      internalID: 5068805434891587660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 940
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e543bb2195fd00800000000000000
+      internalID: 1005869708664496690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ca67bf8aa82d10800000000000000
+      internalID: 2101116760402610059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f6525ac36480410800000000000000
+      internalID: 1443480906854920001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_67
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92aeefb251b0b940800000000000000
+      internalID: 5309938929635336858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2cb1e2c29bfd1e0800000000000000
+      internalID: -2170812895966018851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_69
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c9399f8654ba7d0800000000000000
+      internalID: -2906152817371407327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 840
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cabbc4826b9fc20800000000000000
+      internalID: 3240821691072097366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_71
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 802
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec31e932ef5d290800000000000000
+      internalID: -7866101745203294592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 720
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3ff58072188ee70800000000000000
+      internalID: 9144701048020005862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 720
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3225b736c4a18d1e0800000000000000
+      internalID: -2172957904817401309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_74
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 781
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11951bcea831ac60800000000000000
+      internalID: 7827599950729285917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_75
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 780
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2246c95b1c523270800000000000000
+      internalID: 8228740741699355181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_76
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 780
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67543ee23ff8f460800000000000000
+      internalID: 7275845792226891627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_77
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 780
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257f410dc58bc5100800000000000000
+      internalID: 98156000662845266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7967117ec4866bb10800000000000000
+      internalID: 1996898164288878231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_79
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 720
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43aa9743e8ce1d3b0800000000000000
+      internalID: -5489346375278024140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_80
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 720
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc6bb7d34cecb790800000000000000
+      internalID: -7512870302234481409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 760
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a63de383e4f98e0800000000000000
+      internalID: -1684541732134098377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_82
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 760
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d2037c1c901a50800000000000000
+      internalID: 6489858709043466269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_83
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 760
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0d4849fd83fba0800000000000000
+      internalID: -6056340972083802685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 760
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56d04a918352a90800000000000000
+      internalID: -7339398334952675913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_85
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 741
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afae52eef7f6ab00800000000000000
+      internalID: 839631054642786215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_86
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 740
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df2d22c76e6a19e0800000000000000
+      internalID: -1649884921559437358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_87
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 740
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96aa62e58820f480800000000000000
+      internalID: -8867543110798104930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 740
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1661fb8d70b4a460800000000000000
+      internalID: 7252115353238595103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_89
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 720
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09d13cdede1050b0800000000000000
+      internalID: -5742055582371555059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_90
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 720
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e4898e173a5ef60800000000000000
+      internalID: 8063030417505668668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 720
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6edc1e9d8776f20800000000000000
+      internalID: 3415831719575414521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_92
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 720
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23237a6aec238370800000000000000
+      internalID: 8323545921630708522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb530fbaad109d20800000000000000
+      internalID: 3283156747539405769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917407ab1499984f0800000000000000
+      internalID: -825960549065930983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_95
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59b4832cf9a90ee0800000000000000
+      internalID: -1294316517499553445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_96
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 681
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0945079bda7152200800000000000000
+      internalID: 154555797122077840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_97
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 680
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1facf3b322b6dac50800000000000000
+      internalID: 6678111617227410161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_98
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 680
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d2747228a6f480800000000000000
+      internalID: -8865713950496206231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_99
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 680
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca32845c93824580800000000000000
+      internalID: -8844362010746275123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_100
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b8478ae95e37e0800000000000000
+      internalID: -1783889538565230591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_101
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 620
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d9bba42dbe696a0800000000000000
+      internalID: -6442702928477446820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 660
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6571c3f8528e58e30800000000000000
+      internalID: 4505262250268563286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 660
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f9b946f0018ef90800000000000000
+      internalID: -6924266768783663298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_104
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 660
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6642948de9ea970800000000000000
+      internalID: 8768120176314181366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 660
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a14a10b549a2ac30800000000000000
+      internalID: 4369240705275150752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_106
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 641
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e405f316b2e32c0800000000000000
+      internalID: -4450071685121421712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_107
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 640
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938db7004d4ea250800000000000000
+      internalID: 5957784294460851091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_108
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 640
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2479034bc13c90800000000000000
+      internalID: -7191743641152115280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 640
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb98438038e9e250800000000000000
+      internalID: 5974561675742321647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_110
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 620
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371f27c521614f130800000000000000
+      internalID: 3599526270292128115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_111
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 620
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e92ce6604233900800000000000000
+      internalID: 662913180200246809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_112
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 620
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fa46c356b06a420800000000000000
+      internalID: 2640810760932208538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 620
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754b380f1b099b50800000000000000
+      internalID: 6600318956798166389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_114
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 582
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c392fa0bb194f22a0800000000000000
+      internalID: -6760104132382611140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e122089bbafb880800000000000000
+      internalID: -8592960750792597882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_116
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd48aedba7f65540800000000000000
+      internalID: 4996453154161184179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_117
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ffe2e41df1d040800000000000000
+      internalID: 4670792554708465688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e931a8aaacf2c8c0800000000000000
+      internalID: -3980341310738318876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_119
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25300c7255bb73bb0800000000000000
+      internalID: -4956286890484432046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_120
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 500
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd54e8b5cbf047950800000000000000
+      internalID: 6445794268338341343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_121
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5b8085e503dc110800000000000000
+      internalID: 1282734650632484305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_122
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2ee66ee287e53d0800000000000000
+      internalID: -3216000941066100007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_123
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0d1184fd190b50800000000000000
+      internalID: 6559807268217228966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f931b98b0e75130800000000000000
+      internalID: 3555557514312654722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_125
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73683d08358a19e40800000000000000
+      internalID: 5661491283178522167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_126
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 400
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00626faca21bf840800000000000000
+      internalID: 5258817522771320847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_127
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 362
+        width: 57
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114f8f51d4aea7840800000000000000
+      internalID: 5222744334691529745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_128
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 280
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d9dc4688dbac2f0800000000000000
+      internalID: -951739977731039919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_129
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 280
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbafd47a93d68f2a0800000000000000
+      internalID: -6703487950953514309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_130
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 280
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bd15c0783696af0800000000000000
+      internalID: -402681259994522806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4828b9c7aeac0a0800000000000000
+      internalID: -6860413261439662890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_132
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 280
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b4cb510efe48fe0800000000000000
+      internalID: -1187560656002593896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 280
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd9e053f9b7b09e0800000000000000
+      internalID: -1654092514408358435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e42c5c33453950800000000000000
+      internalID: 6428117969664272231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_135
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e6ad002601f1a0800000000000000
+      internalID: -6777629229478123434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_136
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7960377b206149190800000000000000
+      internalID: -7956710440733309289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f309e1a0deb9ef0800000000000000
+      internalID: -100225938967478417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_138
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04688e96155dddaa0800000000000000
+      internalID: -6134512571762833856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_139
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 180
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494040b40e1da05c0800000000000000
+      internalID: -4248352537209207660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580c389543f093b80800000000000000
+      internalID: -8414677711250538363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_141
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13249eb9cc9f7bed0800000000000000
+      internalID: -2398173619367099855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_142
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 80
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c749cd99a56d450800000000000000
+      internalID: 6113173161079241747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_143
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 122
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66950d421f8620640800000000000000
+      internalID: 5044709917522418022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 40
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0009026d75430400800000000000000
+      internalID: 289151205899829261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_145
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 40
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafcf398976bacd40800000000000000
+      internalID: 5605493319325962156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OGA_16x18_charas_poses_Attack sheet_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 570
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae0184cd77339b0800000000000000
+      internalID: -5101602164895061489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8654c7b6c03192f4d9cc72503ae7341e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
