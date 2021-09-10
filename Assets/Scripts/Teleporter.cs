@@ -22,6 +22,7 @@ public class Teleporter : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             //brain.
+            Player.GetComponent<PlayerController>().playerIsFrozen = true;
             FADEBLACK.SetTrigger("Fade");
             StartCoroutine("TeleportPlayer");
         }
@@ -29,6 +30,7 @@ public class Teleporter : MonoBehaviour
     IEnumerator TeleportPlayer()
     {
         yield return  new WaitForSeconds(.25f);
+        Player.GetComponent<PlayerController>().playerIsFrozen = false;
         Player.transform.position = to.position;
     }
 }

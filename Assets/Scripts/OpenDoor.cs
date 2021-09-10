@@ -5,7 +5,8 @@ using UnityEngine;
 public class OpenDoor : MonoBehaviour
 {
     public bool up, down, left, right;
-    
+    public AudioSource audiosource;
+    public AudioClip clip;
     int face;
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -14,19 +15,15 @@ public class OpenDoor : MonoBehaviour
             PlayerController player = collision.gameObject.GetComponent<PlayerController>();
             if (player.dirFacing == face && player.takeKey())
             {
-                GetComponent<AudioSource>().Play();
-                StartCoroutine("WaitForAudio");
+                audiosource.volume = 1;
+                audiosource.PlayOneShot(clip);
+                Destroy(this.gameObject);
             }
             else
             {
                 return;
             }
         }
-    }
-    IEnumerator WaitForAudio()
-    {
-        yield return new WaitForSeconds(1);
-        Destroy(this.gameObject);
     }
     void Start()
     {

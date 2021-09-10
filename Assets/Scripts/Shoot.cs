@@ -13,18 +13,25 @@ public class Shoot : MonoBehaviour, IItem
     public int setManaCost;
     public Sprite setImage;
     public string setItemName;
+    public bool setActiveUse;
     public int Damage { get; set; }
+    public int stackHolding { get; set; }
+    public int stack { get; set; }
     public int usesMana { get; set; }
     public string itemName { get; set; }
     public Sprite sprite {get; set;}
+    public bool isActivelyUsed { get; set; }
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         Damage = setDamage;
         audios = GetComponent<AudioSource>();
         sprite = setImage;
+        stack = 1;
+        stackHolding = 1;
         usesMana = setManaCost;
         itemName = setItemName;
+        isActivelyUsed = setActiveUse;
     }
 
     //The function below is exclusively called by the player

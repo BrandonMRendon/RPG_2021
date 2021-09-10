@@ -159,7 +159,7 @@ public class SceneController : MonoBehaviour
         text.fontSize = 40;
         anim.Play("TextFadeIn");
         
-        string dungeonName = "Fahtum Castle";
+        string dungeonName = "Beneath the Castle";
         for (int i = 0; i < dungeonName.Length; i++)
         {
             text.text += dungeonName[i];

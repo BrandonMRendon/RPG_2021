@@ -1,26 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.Experimental.Rendering.Universal;
 using UnityEngine;
 
 public class ItemPickup : MonoBehaviour
 {
-    public Shoot projectile;
-    public Swing sword;
     public int value;
-    public bool shoot, swing, key, slot1, health;
+    public bool key, health, destroyAnimator, destroyAudio, destroyLight;
     public string printer = "nothing ";
     public AudioSource audiosource;
-    private IItem whatType()
-    {
-        if (shoot)
-        {
-            return projectile;
-        }
-        else
-        {
-            return sword;
-        }
-    }
+    
     
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -30,7 +19,6 @@ public class ItemPickup : MonoBehaviour
             {
                 collision.gameObject.GetComponent<PlayerController>().getKey();
                 audiosource.Play();
-                StartCoroutine("WaitForAudio");
                 GetComponent<SpriteRenderer>().enabled = false;
                 collision.isTrigger = false;
                 return;
@@ -39,24 +27,38 @@ public class ItemPickup : MonoBehaviour
             {
                 collision.gameObject.GetComponent<PlayerController>().ModifyHealth(value);
                 audiosource.Play();
-                StartCoroutine("WaitForAudio");
                 GetComponent<SpriteRenderer>().enabled = false;
                 collision.isTrigger = false;
                 return;
             }
+            
             gameObject.transform.parent = collision.gameObject.transform;
             transform.localPosition = Vector3.zero;
             transform.localRotation = Quaternion.identity;
-            collision.gameObject.GetComponent<PlayerController>().AddItemToInv(whatType());
+            if (collision.gameObject.GetComponent<PlayerController>().AddItemToInv(this.gameObject))
+            {
+                Destroy(this.gameObject);
+            }
             
             GetComponent<SpriteRenderer>().enabled = false;
+            if (destroyAnimator)
+            {
+                Destroy(GetComponent<Animator>());
+            }
+            if (destroyAudio)
+            {
+                Destroy(GetComponent<AudioSource>());
+            }
+            if (destroyLight)
+            {
+                Destroy(GetComponent<Light2D>());
+            }
+            Destroy(GetComponent<SpriteRenderer>());
             
+            Destroy(GetComponent<Collider2D>());
+
+            Destroy(this);
         }
-    }
-    IEnumerator WaitForAudio()
-    {
-        yield return new WaitForSeconds(1);
-        Destroy(this.gameObject);
     }
     void Update()
     {

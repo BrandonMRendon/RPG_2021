@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3620695052421278119}
   - component: {fileID: 3620695052421278118}
   - component: {fileID: -5083307696726666070}
+  - component: {fileID: -2864128104036122926}
   m_Layer: 0
   m_Name: FireSwordPickup
   m_TagString: Untagged
@@ -103,6 +104,8 @@ MonoBehaviour:
   setSpeed: 10
   setImage: {fileID: 4200114403576872956, guid: bef25a5b36bbead40ac363fe8f8f7bc5, type: 3}
   setItemName: Sword of Flames
+  secondaryAction: {fileID: -2864128104036122926}
+  isSecondaryAction: 1
 --- !u!114 &3620695052421278119
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -118,11 +121,11 @@ MonoBehaviour:
   projectile: {fileID: 0}
   sword: {fileID: 3620695052421278112}
   value: 0
-  shoot: 0
-  swing: 1
   key: 0
-  slot1: 1
   health: 0
+  destroyAnimator: 0
+  destroyAudio: 0
+  destroyLight: 0
   printer: 
   audiosource: {fileID: 0}
 --- !u!61 &3620695052421278118
@@ -247,3 +250,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &-2864128104036122926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3620695052421278117}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b4f0709b2db18341bea27fe42be48c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bulletPrefab: {fileID: 3800686463760627864, guid: 11c13dbef59af1f47a00294a2d327f8f, type: 3}
+  parent: {fileID: 0}
+  setSpeed: 5
+  setDamage: 5
+  setManaCost: 5
+  setImage: {fileID: 5796265945686506220, guid: 1e60f4275c22c0840bf5fa252343c982, type: 3}
+  setItemName: Sword

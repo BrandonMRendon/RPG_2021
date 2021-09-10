@@ -8,6 +8,7 @@ public class Spawner : MonoBehaviour
     public GameObject clone;
     public GameObject parent;
     public GameObject toDestroy;
+    public bool notDestroyable;
 
     private void Awake()
     {
@@ -23,7 +24,7 @@ public class Spawner : MonoBehaviour
     }
     private void OnCollisionExit2D(Collision2D other)
     {
-        if (other.gameObject.tag == "Spawn")
+        if (other.gameObject.tag == "Spawn" && !notDestroyable)
         {
             Destroy(clone);
         }
@@ -39,10 +40,13 @@ public class Spawner : MonoBehaviour
     }
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.gameObject.tag == "Spawn")
+        if (other.gameObject.tag == "Spawn" && !notDestroyable)
         {
             Destroy(clone);
         }
     }
-
+    private void Start()
+    {
+        Physics2D.IgnoreCollision(GetComponent<Collider2D>(), GameObject.FindGameObjectWithTag("Player").GetComponent<Collider2D>());
+    }
 }

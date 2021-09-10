@@ -12,10 +12,15 @@ public class Swing : MonoBehaviour, IItem
     public int setDamage,setSpeed;
     public Sprite setImage;
     public string setItemName;
+    public Shoot secondaryAction;
+    public bool isSecondaryAction, setActiveUse;
     public Sprite sprite { get; set; }
     public int usesMana { get; set; }
     public int Damage { get; set; }
+    public int stack { get; set; }
+    public int stackHolding { get; set; }
     public string itemName { get; set; }
+    public bool isActivelyUsed { get; set; }
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
@@ -23,12 +28,18 @@ public class Swing : MonoBehaviour, IItem
         sprite = setImage;
         swish = GetComponent<AudioSource>();
         usesMana = 0;
+        stack = 1;
+        stackHolding = 1;
+        isActivelyUsed = setActiveUse;
         itemName = setItemName;
     }
     public void Action(Vector2 directionFacing)
     {
         if (sword != null) return;
-        
+        if (isSecondaryAction)
+        {
+            secondaryAction.Action(directionFacing);
+        }
         sword = Instantiate(swordPrefab, transform.position + (Vector3)directionFacing, transform.rotation);
         swordTransform = sword.GetComponent<Transform>();
         sword.GetComponent<DamageModifier>().damage = Damage;
@@ -63,6 +74,7 @@ public class Swing : MonoBehaviour, IItem
             sword.GetComponent<SpriteRenderer>().sortingLayerName = player.GetComponent<SpriteRenderer>().sortingLayerName;
             sword.GetComponent<SpriteRenderer>().sortingOrder = 1;
         }
+        
         /*
         Rigidbody2D rigid = sword.GetComponent<Rigidbody2D>();
         rigid.angularVelocity = swingSpeed;

@@ -18,6 +18,8 @@ TagManager:
   - InventorySelector
   - PickedItem
   - ItemText
+  - ChestSprite
+  - MainCollider
   layers:
   - Default
   - TransparentFX

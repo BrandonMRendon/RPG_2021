@@ -1,0 +1,6508 @@
+fileFormatVersion: 2
+guid: ae819b84b48a6424d922a46933ace672
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7316652863780974145
+    second: Mobile - Last Cloudia - Spider Enemies_0
+  - first:
+      213: 3550488008345862149
+    second: Mobile - Last Cloudia - Spider Enemies_1
+  - first:
+      213: 4798178385309277379
+    second: Mobile - Last Cloudia - Spider Enemies_2
+  - first:
+      213: 4166112606458482631
+    second: Mobile - Last Cloudia - Spider Enemies_3
+  - first:
+      213: 598870890973596238
+    second: Mobile - Last Cloudia - Spider Enemies_4
+  - first:
+      213: 23616726570492568
+    second: _attack2
+  - first:
+      213: -3338174664625561897
+    second: Mobile - Last Cloudia - Spider Enemies_6
+  - first:
+      213: 650687746174285449
+    second: Mobile - Last Cloudia - Spider Enemies_7
+  - first:
+      213: -1290077538314562571
+    second: Mobile - Last Cloudia - Spider Enemies_8
+  - first:
+      213: -4362578624511744110
+    second: Mobile - Last Cloudia - Spider Enemies_9
+  - first:
+      213: -2708411042280713869
+    second: Mobile - Last Cloudia - Spider Enemies_10
+  - first:
+      213: 4383465382634724895
+    second: Mobile - Last Cloudia - Spider Enemies_11
+  - first:
+      213: -3917025170443334248
+    second: Mobile - Last Cloudia - Spider Enemies_12
+  - first:
+      213: 3413361505529611573
+    second: Mobile - Last Cloudia - Spider Enemies_13
+  - first:
+      213: -2925859634556772084
+    second: Mobile - Last Cloudia - Spider Enemies_14
+  - first:
+      213: 7224923453952080107
+    second: 0
+  - first:
+      213: 2510014689926912389
+    second: 1
+  - first:
+      213: -6014027325849082781
+    second: 2
+  - first:
+      213: 1861378214771718477
+    second: 3
+  - first:
+      213: -6649601761591880048
+    second: 4
+  - first:
+      213: -7849471875591840458
+    second: 5
+  - first:
+      213: 2281186827645997520
+    second: 6
+  - first:
+      213: 6605998439185047649
+    second: Mobile - Last Cloudia - Spider Enemies_22
+  - first:
+      213: -774492463364441882
+    second: Mobile - Last Cloudia - Spider Enemies_23
+  - first:
+      213: 4688988467509264681
+    second: Mobile - Last Cloudia - Spider Enemies_24
+  - first:
+      213: 230372668441020894
+    second: Mobile - Last Cloudia - Spider Enemies_25
+  - first:
+      213: 3912785548170684778
+    second: Mobile - Last Cloudia - Spider Enemies_26
+  - first:
+      213: 5141125050399900793
+    second: Mobile - Last Cloudia - Spider Enemies_27
+  - first:
+      213: 851495877599551162
+    second: _idle1
+  - first:
+      213: -8087514987226577523
+    second: _Walk1
+  - first:
+      213: 261148996527650993
+    second: _Walk2
+  - first:
+      213: 4454450166327292249
+    second: Mobile - Last Cloudia - Spider Enemies_31
+  - first:
+      213: -4051807323352753035
+    second: Mobile - Last Cloudia - Spider Enemies_32
+  - first:
+      213: -3950481519682985990
+    second: Mobile - Last Cloudia - Spider Enemies_33
+  - first:
+      213: 6158369388024980032
+    second: Mobile - Last Cloudia - Spider Enemies_34
+  - first:
+      213: 1460540197261566868
+    second: Mobile - Last Cloudia - Spider Enemies_35
+  - first:
+      213: -3977350079645964670
+    second: Upright1
+  - first:
+      213: -2636245107572132511
+    second: Upright2
+  - first:
+      213: 605353113328708909
+    second: Upright3
+  - first:
+      213: 6282693157309112593
+    second: _attack3
+  - first:
+      213: 2801882447945063808
+    second: _idle2
+  - first:
+      213: 2142485765549713060
+    second: _idle3
+  - first:
+      213: -1465051663946999884
+    second: _attack1
+  - first:
+      213: 2978735910061428368
+    second: _attack0
+  - first:
+      213: 5820198869771521776
+    second: Mobile - Last Cloudia - Spider Enemies_44
+  - first:
+      213: -2567227840418335787
+    second: Mobile - Last Cloudia - Spider Enemies_45
+  - first:
+      213: 7137798994292342326
+    second: Mobile - Last Cloudia - Spider Enemies_46
+  - first:
+      213: 4120388800760629104
+    second: Mobile - Last Cloudia - Spider Enemies_47
+  - first:
+      213: 7418166357581034937
+    second: _Walk3
+  - first:
+      213: -3201621513638920286
+    second: _Walk4
+  - first:
+      213: 2218789491808048821
+    second: Mobile - Last Cloudia - Spider Enemies_50
+  - first:
+      213: 5066475927282980525
+    second: Mobile - Last Cloudia - Spider Enemies_51
+  - first:
+      213: 3476525285194579764
+    second: Mobile - Last Cloudia - Spider Enemies_52
+  - first:
+      213: 7415152994661639974
+    second: Mobile - Last Cloudia - Spider Enemies_53
+  - first:
+      213: 7647303855588395112
+    second: Mobile - Last Cloudia - Spider Enemies_54
+  - first:
+      213: 6488752672261362858
+    second: Mobile - Last Cloudia - Spider Enemies_55
+  - first:
+      213: 5575201226049741162
+    second: Mobile - Last Cloudia - Spider Enemies_56
+  - first:
+      213: 504713628767434526
+    second: Mobile - Last Cloudia - Spider Enemies_57
+  - first:
+      213: -335418902321507755
+    second: Mobile - Last Cloudia - Spider Enemies_58
+  - first:
+      213: 1762214979508501211
+    second: Mobile - Last Cloudia - Spider Enemies_59
+  - first:
+      213: -119614984570770698
+    second: Mobile - Last Cloudia - Spider Enemies_60
+  - first:
+      213: -4456395889019286271
+    second: Mobile - Last Cloudia - Spider Enemies_61
+  - first:
+      213: 8548523848427576668
+    second: Mobile - Last Cloudia - Spider Enemies_62
+  - first:
+      213: 6687386600146986729
+    second: Mobile - Last Cloudia - Spider Enemies_63
+  - first:
+      213: -6711369101062259990
+    second: Mobile - Last Cloudia - Spider Enemies_64
+  - first:
+      213: -8692769189943275206
+    second: Mobile - Last Cloudia - Spider Enemies_65
+  - first:
+      213: 944043211298808328
+    second: Mobile - Last Cloudia - Spider Enemies_66
+  - first:
+      213: 7216905438733245233
+    second: Mobile - Last Cloudia - Spider Enemies_67
+  - first:
+      213: 1836097070944154576
+    second: Mobile - Last Cloudia - Spider Enemies_68
+  - first:
+      213: 9136294271376877025
+    second: Mobile - Last Cloudia - Spider Enemies_69
+  - first:
+      213: -5494049113669278931
+    second: Mobile - Last Cloudia - Spider Enemies_70
+  - first:
+      213: -5091789370064353612
+    second: Mobile - Last Cloudia - Spider Enemies_71
+  - first:
+      213: -3541607678701195478
+    second: Mobile - Last Cloudia - Spider Enemies_72
+  - first:
+      213: 1941132761920330430
+    second: Mobile - Last Cloudia - Spider Enemies_73
+  - first:
+      213: 4519198852565475702
+    second: Mobile - Last Cloudia - Spider Enemies_74
+  - first:
+      213: 1059249864148812973
+    second: Mobile - Last Cloudia - Spider Enemies_75
+  - first:
+      213: 2028448378798865076
+    second: Mobile - Last Cloudia - Spider Enemies_76
+  - first:
+      213: 7228290286390542019
+    second: Mobile - Last Cloudia - Spider Enemies_77
+  - first:
+      213: 89758633926188762
+    second: Mobile - Last Cloudia - Spider Enemies_78
+  - first:
+      213: 5541927396357968092
+    second: Mobile - Last Cloudia - Spider Enemies_79
+  - first:
+      213: 8894658126789908127
+    second: Mobile - Last Cloudia - Spider Enemies_80
+  - first:
+      213: 6046350614265144910
+    second: Mobile - Last Cloudia - Spider Enemies_81
+  - first:
+      213: -2198141059546686715
+    second: Mobile - Last Cloudia - Spider Enemies_82
+  - first:
+      213: -8394563995243574423
+    second: Mobile - Last Cloudia - Spider Enemies_83
+  - first:
+      213: -1864144126633835696
+    second: Mobile - Last Cloudia - Spider Enemies_84
+  - first:
+      213: -3276565036961955594
+    second: Mobile - Last Cloudia - Spider Enemies_85
+  - first:
+      213: 1976007914915465337
+    second: Mobile - Last Cloudia - Spider Enemies_86
+  - first:
+      213: -1799206010883921064
+    second: Mobile - Last Cloudia - Spider Enemies_87
+  - first:
+      213: 1006052151954595136
+    second: Mobile - Last Cloudia - Spider Enemies_88
+  - first:
+      213: -529553435878339240
+    second: Mobile - Last Cloudia - Spider Enemies_89
+  - first:
+      213: 5496667421959032852
+    second: Mobile - Last Cloudia - Spider Enemies_90
+  - first:
+      213: -1211050318649419040
+    second: Mobile - Last Cloudia - Spider Enemies_91
+  - first:
+      213: -1415937487468955246
+    second: Mobile - Last Cloudia - Spider Enemies_92
+  - first:
+      213: 1014102001727585233
+    second: Mobile - Last Cloudia - Spider Enemies_93
+  - first:
+      213: -8965408656684788577
+    second: Mobile - Last Cloudia - Spider Enemies_94
+  - first:
+      213: -5605675963971561852
+    second: Mobile - Last Cloudia - Spider Enemies_95
+  - first:
+      213: -2588089955165566403
+    second: Mobile - Last Cloudia - Spider Enemies_96
+  - first:
+      213: -1398115753362887420
+    second: Mobile - Last Cloudia - Spider Enemies_97
+  - first:
+      213: 2655272638105587774
+    second: Mobile - Last Cloudia - Spider Enemies_98
+  - first:
+      213: 8127057488951355820
+    second: Mobile - Last Cloudia - Spider Enemies_99
+  - first:
+      213: 5420643867294174393
+    second: Mobile - Last Cloudia - Spider Enemies_100
+  - first:
+      213: -3091105230094616338
+    second: Mobile - Last Cloudia - Spider Enemies_101
+  - first:
+      213: 4307956126493128537
+    second: Mobile - Last Cloudia - Spider Enemies_102
+  - first:
+      213: -8612118276726259470
+    second: Mobile - Last Cloudia - Spider Enemies_103
+  - first:
+      213: -5858968421991739008
+    second: Mobile - Last Cloudia - Spider Enemies_104
+  - first:
+      213: -8718299331447081256
+    second: Mobile - Last Cloudia - Spider Enemies_105
+  - first:
+      213: 6143019738190270955
+    second: Mobile - Last Cloudia - Spider Enemies_106
+  - first:
+      213: 3024734425944456217
+    second: Mobile - Last Cloudia - Spider Enemies_107
+  - first:
+      213: -2851534774415023436
+    second: Mobile - Last Cloudia - Spider Enemies_108
+  - first:
+      213: 8264168882573630831
+    second: Mobile - Last Cloudia - Spider Enemies_109
+  - first:
+      213: 3988184126421946129
+    second: Mobile - Last Cloudia - Spider Enemies_110
+  - first:
+      213: 3776473524207813927
+    second: Mobile - Last Cloudia - Spider Enemies_111
+  - first:
+      213: 4061471444358043514
+    second: Mobile - Last Cloudia - Spider Enemies_112
+  - first:
+      213: -4388890046148572487
+    second: Mobile - Last Cloudia - Spider Enemies_113
+  - first:
+      213: 5599523309351686385
+    second: Mobile - Last Cloudia - Spider Enemies_114
+  - first:
+      213: 2588971067134944378
+    second: Mobile - Last Cloudia - Spider Enemies_115
+  - first:
+      213: -8612843983075323526
+    second: Mobile - Last Cloudia - Spider Enemies_116
+  - first:
+      213: -4290871689530888066
+    second: Mobile - Last Cloudia - Spider Enemies_117
+  - first:
+      213: -3338839606369253980
+    second: Mobile - Last Cloudia - Spider Enemies_118
+  - first:
+      213: -4302044580408440979
+    second: Mobile - Last Cloudia - Spider Enemies_119
+  - first:
+      213: -3882709489883010299
+    second: Mobile - Last Cloudia - Spider Enemies_120
+  - first:
+      213: -4172163629662499487
+    second: Mobile - Last Cloudia - Spider Enemies_121
+  - first:
+      213: 4662414372395595051
+    second: Mobile - Last Cloudia - Spider Enemies_122
+  - first:
+      213: -7296705555751846245
+    second: Mobile - Last Cloudia - Spider Enemies_123
+  - first:
+      213: -1681524689889121291
+    second: Mobile - Last Cloudia - Spider Enemies_124
+  - first:
+      213: 8229565954254760279
+    second: Mobile - Last Cloudia - Spider Enemies_125
+  - first:
+      213: 2386595029451728524
+    second: Mobile - Last Cloudia - Spider Enemies_126
+  - first:
+      213: -5117685830454668184
+    second: Mobile - Last Cloudia - Spider Enemies_127
+  - first:
+      213: 3693242253595942466
+    second: Mobile - Last Cloudia - Spider Enemies_128
+  - first:
+      213: 5257649597121908215
+    second: Mobile - Last Cloudia - Spider Enemies_129
+  - first:
+      213: -6936568740905437231
+    second: Mobile - Last Cloudia - Spider Enemies_130
+  - first:
+      213: -8365582004349225161
+    second: Mobile - Last Cloudia - Spider Enemies_131
+  - first:
+      213: 193918069144911612
+    second: Mobile - Last Cloudia - Spider Enemies_132
+  - first:
+      213: 5277891781993962450
+    second: Mobile - Last Cloudia - Spider Enemies_133
+  - first:
+      213: 864258138771762208
+    second: Mobile - Last Cloudia - Spider Enemies_134
+  - first:
+      213: 3527063337275710943
+    second: Mobile - Last Cloudia - Spider Enemies_135
+  - first:
+      213: 1734275946499285169
+    second: Mobile - Last Cloudia - Spider Enemies_136
+  - first:
+      213: 2303654876568423800
+    second: Mobile - Last Cloudia - Spider Enemies_137
+  - first:
+      213: 3194041042545110950
+    second: Mobile - Last Cloudia - Spider Enemies_138
+  - first:
+      213: 9013019951244664370
+    second: Mobile - Last Cloudia - Spider Enemies_139
+  - first:
+      213: 5017687314638334812
+    second: Mobile - Last Cloudia - Spider Enemies_140
+  - first:
+      213: -1847356867870186204
+    second: Mobile - Last Cloudia - Spider Enemies_141
+  - first:
+      213: -7158246042459012544
+    second: Mobile - Last Cloudia - Spider Enemies_142
+  - first:
+      213: -2039706007105949532
+    second: Mobile - Last Cloudia - Spider Enemies_143
+  - first:
+      213: 5961735727469443002
+    second: Mobile - Last Cloudia - Spider Enemies_144
+  - first:
+      213: -9176809729490951438
+    second: Mobile - Last Cloudia - Spider Enemies_145
+  - first:
+      213: -412571948066737235
+    second: Mobile - Last Cloudia - Spider Enemies_146
+  - first:
+      213: -8146927369315923702
+    second: Mobile - Last Cloudia - Spider Enemies_147
+  - first:
+      213: 4656749277256544048
+    second: Mobile - Last Cloudia - Spider Enemies_148
+  - first:
+      213: -8685747995302197657
+    second: Mobile - Last Cloudia - Spider Enemies_149
+  - first:
+      213: -6028132216365374104
+    second: Mobile - Last Cloudia - Spider Enemies_150
+  - first:
+      213: -7770701846455984272
+    second: Mobile - Last Cloudia - Spider Enemies_151
+  - first:
+      213: -1058964739132225210
+    second: Mobile - Last Cloudia - Spider Enemies_152
+  - first:
+      213: -9081679052232563167
+    second: Mobile - Last Cloudia - Spider Enemies_153
+  - first:
+      213: 4824626698327104876
+    second: Mobile - Last Cloudia - Spider Enemies_154
+  - first:
+      213: 6434901204712531604
+    second: Mobile - Last Cloudia - Spider Enemies_155
+  - first:
+      213: -6227509058606226967
+    second: Mobile - Last Cloudia - Spider Enemies_156
+  - first:
+      213: -837999126706642212
+    second: Mobile - Last Cloudia - Spider Enemies_157
+  - first:
+      213: -7376427687511390734
+    second: Mobile - Last Cloudia - Spider Enemies_158
+  - first:
+      213: 107728972009068614
+    second: Mobile - Last Cloudia - Spider Enemies_159
+  - first:
+      213: -3172980828774314123
+    second: Mobile - Last Cloudia - Spider Enemies_160
+  - first:
+      213: -758559894833175405
+    second: Mobile - Last Cloudia - Spider Enemies_161
+  - first:
+      213: 3361852850604631119
+    second: Mobile - Last Cloudia - Spider Enemies_162
+  - first:
+      213: 3488288942853140960
+    second: Mobile - Last Cloudia - Spider Enemies_163
+  - first:
+      213: 379781176236890481
+    second: Mobile - Last Cloudia - Spider Enemies_164
+  - first:
+      213: 6296392378086543057
+    second: Mobile - Last Cloudia - Spider Enemies_165
+  - first:
+      213: 1833963214939467905
+    second: Mobile - Last Cloudia - Spider Enemies_166
+  - first:
+      213: 7171106148193567497
+    second: Mobile - Last Cloudia - Spider Enemies_167
+  - first:
+      213: -2929707611024520143
+    second: Mobile - Last Cloudia - Spider Enemies_168
+  - first:
+      213: -4671789262493930401
+    second: Mobile - Last Cloudia - Spider Enemies_169
+  - first:
+      213: 5790017839483175578
+    second: Mobile - Last Cloudia - Spider Enemies_170
+  - first:
+      213: 908402539154910447
+    second: Mobile - Last Cloudia - Spider Enemies_171
+  - first:
+      213: -7191981450407619605
+    second: Mobile - Last Cloudia - Spider Enemies_172
+  - first:
+      213: -8108070068544004131
+    second: Mobile - Last Cloudia - Spider Enemies_173
+  - first:
+      213: 9038171107146369342
+    second: Mobile - Last Cloudia - Spider Enemies_174
+  - first:
+      213: 4656615656294618450
+    second: Mobile - Last Cloudia - Spider Enemies_175
+  - first:
+      213: 3138849661464210403
+    second: Mobile - Last Cloudia - Spider Enemies_176
+  - first:
+      213: -9185040180536801744
+    second: Mobile - Last Cloudia - Spider Enemies_177
+  - first:
+      213: -8335234426898043258
+    second: Mobile - Last Cloudia - Spider Enemies_178
+  - first:
+      213: -3481763238158794082
+    second: Mobile - Last Cloudia - Spider Enemies_179
+  - first:
+      213: -5820074186579954385
+    second: Mobile - Last Cloudia - Spider Enemies_180
+  - first:
+      213: 3972526278324785198
+    second: Mobile - Last Cloudia - Spider Enemies_181
+  - first:
+      213: -5217997411941589452
+    second: Mobile - Last Cloudia - Spider Enemies_182
+  - first:
+      213: -7553511214131422811
+    second: Mobile - Last Cloudia - Spider Enemies_183
+  - first:
+      213: 7623854649297232316
+    second: Mobile - Last Cloudia - Spider Enemies_184
+  - first:
+      213: -1013935638200815349
+    second: Mobile - Last Cloudia - Spider Enemies_185
+  - first:
+      213: -5556531977029724165
+    second: Mobile - Last Cloudia - Spider Enemies_186
+  - first:
+      213: 4888497813359423691
+    second: Mobile - Last Cloudia - Spider Enemies_187
+  - first:
+      213: 5879987033929611450
+    second: Mobile - Last Cloudia - Spider Enemies_188
+  - first:
+      213: 320098158757844941
+    second: Mobile - Last Cloudia - Spider Enemies_189
+  - first:
+      213: 4205533239704998891
+    second: Mobile - Last Cloudia - Spider Enemies_190
+  - first:
+      213: -1281503539319651562
+    second: Mobile - Last Cloudia - Spider Enemies_191
+  - first:
+      213: 6570114826301228052
+    second: Mobile - Last Cloudia - Spider Enemies_192
+  - first:
+      213: 1086009601608956287
+    second: Mobile - Last Cloudia - Spider Enemies_193
+  - first:
+      213: 4440989596266967034
+    second: Mobile - Last Cloudia - Spider Enemies_194
+  - first:
+      213: 3665834021655388539
+    second: Mobile - Last Cloudia - Spider Enemies_195
+  - first:
+      213: -1678870714011558658
+    second: Mobile - Last Cloudia - Spider Enemies_196
+  - first:
+      213: 3608619528160824754
+    second: Mobile - Last Cloudia - Spider Enemies_197
+  - first:
+      213: 3328914580758345647
+    second: Mobile - Last Cloudia - Spider Enemies_198
+  - first:
+      213: 5490003452498081198
+    second: Mobile - Last Cloudia - Spider Enemies_199
+  - first:
+      213: -8887160153889683858
+    second: Mobile - Last Cloudia - Spider Enemies_200
+  - first:
+      213: -101113466464727267
+    second: Mobile - Last Cloudia - Spider Enemies_201
+  - first:
+      213: 7318970411467929623
+    second: Mobile - Last Cloudia - Spider Enemies_202
+  - first:
+      213: 8175567190649267203
+    second: Mobile - Last Cloudia - Spider Enemies_203
+  - first:
+      213: 8052527218761327887
+    second: Mobile - Last Cloudia - Spider Enemies_204
+  - first:
+      213: 8445406582798789167
+    second: Mobile - Last Cloudia - Spider Enemies_205
+  - first:
+      213: -3983439797940728155
+    second: Mobile - Last Cloudia - Spider Enemies_206
+  - first:
+      213: -5516431374877375980
+    second: Mobile - Last Cloudia - Spider Enemies_207
+  - first:
+      213: 3366109562693884674
+    second: Mobile - Last Cloudia - Spider Enemies_208
+  - first:
+      213: -8151193387903597696
+    second: Mobile - Last Cloudia - Spider Enemies_209
+  - first:
+      213: 4034186249670306633
+    second: Mobile - Last Cloudia - Spider Enemies_210
+  - first:
+      213: -2283835643558141675
+    second: Mobile - Last Cloudia - Spider Enemies_211
+  - first:
+      213: -5590424412239039150
+    second: Mobile - Last Cloudia - Spider Enemies_212
+  - first:
+      213: 601769498663667480
+    second: Mobile - Last Cloudia - Spider Enemies_213
+  - first:
+      213: 6441556727137755146
+    second: Mobile - Last Cloudia - Spider Enemies_214
+  - first:
+      213: 7769932617773053876
+    second: Mobile - Last Cloudia - Spider Enemies_215
+  - first:
+      213: -5189031541425940794
+    second: Mobile - Last Cloudia - Spider Enemies_216
+  - first:
+      213: 9036803737576428761
+    second: Mobile - Last Cloudia - Spider Enemies_217
+  - first:
+      213: 537616814447388306
+    second: Mobile - Last Cloudia - Spider Enemies_218
+  - first:
+      213: 7154677361293385435
+    second: Mobile - Last Cloudia - Spider Enemies_219
+  - first:
+      213: 3796355098951951311
+    second: Mobile - Last Cloudia - Spider Enemies_220
+  - first:
+      213: 6123212460667758631
+    second: Mobile - Last Cloudia - Spider Enemies_221
+  - first:
+      213: 4624946133257373820
+    second: Mobile - Last Cloudia - Spider Enemies_222
+  - first:
+      213: 1279792026662266667
+    second: Mobile - Last Cloudia - Spider Enemies_223
+  - first:
+      213: 7396395840457990193
+    second: Mobile - Last Cloudia - Spider Enemies_224
+  - first:
+      213: 7002633057789671944
+    second: Mobile - Last Cloudia - Spider Enemies_225
+  - first:
+      213: 6137239027147454046
+    second: Mobile - Last Cloudia - Spider Enemies_226
+  - first:
+      213: 866544731738726618
+    second: Mobile - Last Cloudia - Spider Enemies_227
+  - first:
+      213: -4522581626974752308
+    second: Mobile - Last Cloudia - Spider Enemies_228
+  - first:
+      213: -2768125021468718201
+    second: Mobile - Last Cloudia - Spider Enemies_229
+  - first:
+      213: 5265366931417144606
+    second: Mobile - Last Cloudia - Spider Enemies_230
+  - first:
+      213: 249576523795820508
+    second: Mobile - Last Cloudia - Spider Enemies_231
+  - first:
+      213: -1503214071792432193
+    second: Mobile - Last Cloudia - Spider Enemies_232
+  - first:
+      213: 1259302403204403973
+    second: Mobile - Last Cloudia - Spider Enemies_233
+  - first:
+      213: 2297196377790898444
+    second: Mobile - Last Cloudia - Spider Enemies_234
+  - first:
+      213: -6462272807132397417
+    second: Mobile - Last Cloudia - Spider Enemies_235
+  - first:
+      213: -3554716652135938832
+    second: Mobile - Last Cloudia - Spider Enemies_236
+  - first:
+      213: -8956985117983582674
+    second: Mobile - Last Cloudia - Spider Enemies_237
+  - first:
+      213: 4527785772781515226
+    second: Mobile - Last Cloudia - Spider Enemies_238
+  - first:
+      213: 564144590641608492
+    second: Mobile - Last Cloudia - Spider Enemies_239
+  - first:
+      213: -5308804384318128780
+    second: Mobile - Last Cloudia - Spider Enemies_240
+  - first:
+      213: -7395400574989076817
+    second: Mobile - Last Cloudia - Spider Enemies_241
+  - first:
+      213: 1252037846183175751
+    second: Mobile - Last Cloudia - Spider Enemies_242
+  - first:
+      213: -8616108808942632115
+    second: Mobile - Last Cloudia - Spider Enemies_243
+  - first:
+      213: -6511009745206561402
+    second: Mobile - Last Cloudia - Spider Enemies_244
+  - first:
+      213: -7707426805934203488
+    second: Mobile - Last Cloudia - Spider Enemies_245
+  - first:
+      213: -4931809398125929637
+    second: Mobile - Last Cloudia - Spider Enemies_246
+  - first:
+      213: -6286157334667488447
+    second: Mobile - Last Cloudia - Spider Enemies_247
+  - first:
+      213: -7144005104140103118
+    second: Mobile - Last Cloudia - Spider Enemies_248
+  - first:
+      213: 1827410812690856463
+    second: Mobile - Last Cloudia - Spider Enemies_249
+  - first:
+      213: -6508712545406653913
+    second: Mobile - Last Cloudia - Spider Enemies_250
+  - first:
+      213: 6504195754229073404
+    second: Mobile - Last Cloudia - Spider Enemies_251
+  - first:
+      213: 4572560103444030365
+    second: Mobile - Last Cloudia - Spider Enemies_252
+  - first:
+      213: -8900794869699044839
+    second: Mobile - Last Cloudia - Spider Enemies_253
+  - first:
+      213: -3421953220719475391
+    second: Mobile - Last Cloudia - Spider Enemies_254
+  - first:
+      213: -8810926260859987216
+    second: Mobile - Last Cloudia - Spider Enemies_255
+  - first:
+      213: 7555309422059729966
+    second: Mobile - Last Cloudia - Spider Enemies_256
+  - first:
+      213: -2239570143470992120
+    second: Mobile - Last Cloudia - Spider Enemies_257
+  - first:
+      213: -3773778784537959659
+    second: Mobile - Last Cloudia - Spider Enemies_258
+  - first:
+      213: -117711499734395185
+    second: Mobile - Last Cloudia - Spider Enemies_259
+  - first:
+      213: -4349024726763873862
+    second: Mobile - Last Cloudia - Spider Enemies_260
+  - first:
+      213: 6354919131189545628
+    second: Mobile - Last Cloudia - Spider Enemies_261
+  - first:
+      213: -7337392186558365275
+    second: Mobile - Last Cloudia - Spider Enemies_262
+  - first:
+      213: 7141733819150234577
+    second: Mobile - Last Cloudia - Spider Enemies_263
+  - first:
+      213: -2602531868541020170
+    second: Mobile - Last Cloudia - Spider Enemies_264
+  - first:
+      213: -6332609759062687134
+    second: Mobile - Last Cloudia - Spider Enemies_265
+  - first:
+      213: -3292393160620945418
+    second: Mobile - Last Cloudia - Spider Enemies_266
+  - first:
+      213: 5413402477484067075
+    second: Mobile - Last Cloudia - Spider Enemies_267
+  - first:
+      213: -3804258787546571988
+    second: Mobile - Last Cloudia - Spider Enemies_268
+  - first:
+      213: 1940554721981554602
+    second: Mobile - Last Cloudia - Spider Enemies_269
+  - first:
+      213: 6155348905813230389
+    second: Mobile - Last Cloudia - Spider Enemies_270
+  - first:
+      213: -7318052650218872429
+    second: Mobile - Last Cloudia - Spider Enemies_271
+  - first:
+      213: -5192714899445182947
+    second: Mobile - Last Cloudia - Spider Enemies_272
+  - first:
+      213: 6220520802520553080
+    second: Mobile - Last Cloudia - Spider Enemies_273
+  - first:
+      213: -749033646734683131
+    second: Mobile - Last Cloudia - Spider Enemies_274
+  - first:
+      213: 5963332029763634555
+    second: Mobile - Last Cloudia - Spider Enemies_275
+  - first:
+      213: -2760602921234954599
+    second: Mobile - Last Cloudia - Spider Enemies_276
+  - first:
+      213: -8587572114762810315
+    second: Mobile - Last Cloudia - Spider Enemies_277
+  - first:
+      213: 3528861704348271131
+    second: Mobile - Last Cloudia - Spider Enemies_278
+  - first:
+      213: -5947175836714840535
+    second: Mobile - Last Cloudia - Spider Enemies_279
+  - first:
+      213: 6858733321673421461
+    second: Mobile - Last Cloudia - Spider Enemies_280
+  - first:
+      213: 4309062202724817554
+    second: Mobile - Last Cloudia - Spider Enemies_281
+  - first:
+      213: 4239828337946927996
+    second: Mobile - Last Cloudia - Spider Enemies_282
+  - first:
+      213: -6375056606550546666
+    second: Mobile - Last Cloudia - Spider Enemies_283
+  - first:
+      213: 5336639972376145010
+    second: Mobile - Last Cloudia - Spider Enemies_284
+  - first:
+      213: 1695386879531811348
+    second: Mobile - Last Cloudia - Spider Enemies_285
+  - first:
+      213: 6489281282421983628
+    second: Mobile - Last Cloudia - Spider Enemies_286
+  - first:
+      213: -5857546293098958249
+    second: Mobile - Last Cloudia - Spider Enemies_287
+  - first:
+      213: 5923753028497644203
+    second: Mobile - Last Cloudia - Spider Enemies_288
+  - first:
+      213: -1771738633763099223
+    second: Mobile - Last Cloudia - Spider Enemies_289
+  - first:
+      213: 2070418994575977044
+    second: Mobile - Last Cloudia - Spider Enemies_290
+  - first:
+      213: 6649996195845928345
+    second: Mobile - Last Cloudia - Spider Enemies_291
+  - first:
+      213: 7038059464592355164
+    second: Mobile - Last Cloudia - Spider Enemies_292
+  - first:
+      213: 1693519917150761907
+    second: Mobile - Last Cloudia - Spider Enemies_293
+  - first:
+      213: -7993090606073078534
+    second: Mobile - Last Cloudia - Spider Enemies_294
+  - first:
+      213: 2558800324917521797
+    second: Mobile - Last Cloudia - Spider Enemies_295
+  - first:
+      213: -2133913789148423802
+    second: Mobile - Last Cloudia - Spider Enemies_296
+  - first:
+      213: -6840163540212067140
+    second: Mobile - Last Cloudia - Spider Enemies_297
+  - first:
+      213: 1401180395170769043
+    second: Mobile - Last Cloudia - Spider Enemies_298
+  - first:
+      213: 2073830062677109622
+    second: Mobile - Last Cloudia - Spider Enemies_299
+  - first:
+      213: -7788345330588894157
+    second: Mobile - Last Cloudia - Spider Enemies_300
+  - first:
+      213: 472401382855580006
+    second: Mobile - Last Cloudia - Spider Enemies_301
+  - first:
+      213: -7294331931279193854
+    second: Mobile - Last Cloudia - Spider Enemies_302
+  - first:
+      213: -8862902405552270026
+    second: Mobile - Last Cloudia - Spider Enemies_303
+  - first:
+      213: -8148295482280819021
+    second: Mobile - Last Cloudia - Spider Enemies_304
+  - first:
+      213: 6093576674028527908
+    second: Mobile - Last Cloudia - Spider Enemies_305
+  - first:
+      213: 8746485459946047962
+    second: Mobile - Last Cloudia - Spider Enemies_306
+  - first:
+      213: 3815479364987845202
+    second: Mobile - Last Cloudia - Spider Enemies_307
+  - first:
+      213: -44593426781614249
+    second: Mobile - Last Cloudia - Spider Enemies_308
+  - first:
+      213: 514841348660448198
+    second: Mobile - Last Cloudia - Spider Enemies_309
+  - first:
+      213: -2688531197414159106
+    second: Mobile - Last Cloudia - Spider Enemies_310
+  - first:
+      213: -607288267296048542
+    second: Mobile - Last Cloudia - Spider Enemies_311
+  - first:
+      213: 3897706149771801496
+    second: Mobile - Last Cloudia - Spider Enemies_312
+  - first:
+      213: 6737439060258335461
+    second: Mobile - Last Cloudia - Spider Enemies_313
+  - first:
+      213: 8494043600985036274
+    second: Mobile - Last Cloudia - Spider Enemies_314
+  - first:
+      213: -4590726688593219863
+    second: Mobile - Last Cloudia - Spider Enemies_315
+  - first:
+      213: -6609045984517626402
+    second: Mobile - Last Cloudia - Spider Enemies_316
+  - first:
+      213: -5082117573241519433
+    second: Mobile - Last Cloudia - Spider Enemies_317
+  - first:
+      213: -8045340529869210482
+    second: Mobile - Last Cloudia - Spider Enemies_318
+  - first:
+      213: -2386330570594693657
+    second: Mobile - Last Cloudia - Spider Enemies_319
+  - first:
+      213: 6087603999665301102
+    second: Mobile - Last Cloudia - Spider Enemies_320
+  - first:
+      213: 6405619778525286688
+    second: Mobile - Last Cloudia - Spider Enemies_321
+  - first:
+      213: -6407516368428610219
+    second: Mobile - Last Cloudia - Spider Enemies_322
+  - first:
+      213: 8179416741413149741
+    second: Mobile - Last Cloudia - Spider Enemies_323
+  - first:
+      213: -1963321254711012363
+    second: Mobile - Last Cloudia - Spider Enemies_324
+  - first:
+      213: -3139118853678690562
+    second: Mobile - Last Cloudia - Spider Enemies_325
+  - first:
+      213: 4665102170003568860
+    second: Mobile - Last Cloudia - Spider Enemies_326
+  - first:
+      213: 4182151442646055265
+    second: Mobile - Last Cloudia - Spider Enemies_327
+  - first:
+      213: 2862524836378759887
+    second: Mobile - Last Cloudia - Spider Enemies_328
+  - first:
+      213: -5864021942232571015
+    second: Mobile - Last Cloudia - Spider Enemies_329
+  - first:
+      213: -8964119827291462577
+    second: Mobile - Last Cloudia - Spider Enemies_330
+  - first:
+      213: -7237950235203364613
+    second: Mobile - Last Cloudia - Spider Enemies_331
+  - first:
+      213: -6548077230921944139
+    second: Mobile - Last Cloudia - Spider Enemies_332
+  - first:
+      213: 2655597812580369212
+    second: Mobile - Last Cloudia - Spider Enemies_333
+  - first:
+      213: 3948378372241627399
+    second: Mobile - Last Cloudia - Spider Enemies_334
+  - first:
+      213: 7172463040814584624
+    second: Mobile - Last Cloudia - Spider Enemies_335
+  - first:
+      213: -2803625112426175588
+    second: Mobile - Last Cloudia - Spider Enemies_336
+  - first:
+      213: 6060643743291555434
+    second: Mobile - Last Cloudia - Spider Enemies_337
+  - first:
+      213: 4546179984807065551
+    second: Mobile - Last Cloudia - Spider Enemies_338
+  - first:
+      213: 7288763970249497471
+    second: Mobile - Last Cloudia - Spider Enemies_339
+  - first:
+      213: -3552338442579130681
+    second: Mobile - Last Cloudia - Spider Enemies_340
+  - first:
+      213: -2269100003483427057
+    second: Mobile - Last Cloudia - Spider Enemies_341
+  - first:
+      213: 7679596124212255139
+    second: Mobile - Last Cloudia - Spider Enemies_342
+  - first:
+      213: 2363935041951694855
+    second: Mobile - Last Cloudia - Spider Enemies_343
+  - first:
+      213: 2158550999383502004
+    second: Mobile - Last Cloudia - Spider Enemies_344
+  - first:
+      213: -5074874945378389982
+    second: Mobile - Last Cloudia - Spider Enemies_345
+  - first:
+      213: -4573351607201060552
+    second: Mobile - Last Cloudia - Spider Enemies_346
+  - first:
+      213: 6765985226006737500
+    second: Mobile - Last Cloudia - Spider Enemies_347
+  - first:
+      213: 7076146733027107708
+    second: Mobile - Last Cloudia - Spider Enemies_348
+  - first:
+      213: 8578535744965622495
+    second: Mobile - Last Cloudia - Spider Enemies_349
+  - first:
+      213: -4478731706451329290
+    second: Mobile - Last Cloudia - Spider Enemies_350
+  - first:
+      213: 5546526661412980356
+    second: Mobile - Last Cloudia - Spider Enemies_351
+  - first:
+      213: -8406439482286186666
+    second: Mobile - Last Cloudia - Spider Enemies_352
+  - first:
+      213: 1172083546398447132
+    second: Mobile - Last Cloudia - Spider Enemies_353
+  - first:
+      213: -4898076684944531551
+    second: Mobile - Last Cloudia - Spider Enemies_354
+  - first:
+      213: 2062515413102264458
+    second: Mobile - Last Cloudia - Spider Enemies_355
+  - first:
+      213: 3295002496938719258
+    second: Mobile - Last Cloudia - Spider Enemies_356
+  - first:
+      213: 4099903369924392787
+    second: Mobile - Last Cloudia - Spider Enemies_357
+  - first:
+      213: 5627619315376290739
+    second: Mobile - Last Cloudia - Spider Enemies_358
+  - first:
+      213: 1185392175544700073
+    second: Mobile - Last Cloudia - Spider Enemies_359
+  - first:
+      213: -3661617488060242462
+    second: Mobile - Last Cloudia - Spider Enemies_360
+  - first:
+      213: 3505003431362195723
+    second: Mobile - Last Cloudia - Spider Enemies_361
+  - first:
+      213: 4841351643349120900
+    second: Mobile - Last Cloudia - Spider Enemies_362
+  - first:
+      213: -5116742162645493753
+    second: Mobile - Last Cloudia - Spider Enemies_363
+  - first:
+      213: 7916435878607255992
+    second: Mobile - Last Cloudia - Spider Enemies_364
+  - first:
+      213: 277430995717306818
+    second: Mobile - Last Cloudia - Spider Enemies_365
+  - first:
+      213: -4113676695835708666
+    second: Mobile - Last Cloudia - Spider Enemies_366
+  - first:
+      213: -5068623287624064286
+    second: Mobile - Last Cloudia - Spider Enemies_367
+  - first:
+      213: -7092965599664623189
+    second: Mobile - Last Cloudia - Spider Enemies_368
+  - first:
+      213: 5795346470214783870
+    second: Mobile - Last Cloudia - Spider Enemies_369
+  - first:
+      213: 4346341393111229506
+    second: Mobile - Last Cloudia - Spider Enemies_370
+  - first:
+      213: -7239196082167227773
+    second: Mobile - Last Cloudia - Spider Enemies_371
+  - first:
+      213: -7861879215634972714
+    second: Mobile - Last Cloudia - Spider Enemies_372
+  - first:
+      213: 8340771856378648128
+    second: Mobile - Last Cloudia - Spider Enemies_373
+  - first:
+      213: -4898298721841633810
+    second: Mobile - Last Cloudia - Spider Enemies_374
+  - first:
+      213: 5947953845488395477
+    second: Mobile - Last Cloudia - Spider Enemies_375
+  - first:
+      213: 1252250379596980495
+    second: Mobile - Last Cloudia - Spider Enemies_376
+  - first:
+      213: -4892198202815475007
+    second: Mobile - Last Cloudia - Spider Enemies_377
+  - first:
+      213: -8629865914911123323
+    second: Mobile - Last Cloudia - Spider Enemies_378
+  - first:
+      213: -1526421475246872551
+    second: Mobile - Last Cloudia - Spider Enemies_379
+  - first:
+      213: 1009706131074403526
+    second: Mobile - Last Cloudia - Spider Enemies_380
+  - first:
+      213: 6965339880522099318
+    second: Mobile - Last Cloudia - Spider Enemies_381
+  - first:
+      213: 2453789670539710156
+    second: Mobile - Last Cloudia - Spider Enemies_382
+  - first:
+      213: -3105198484401501478
+    second: Mobile - Last Cloudia - Spider Enemies_383
+  - first:
+      213: 8228452846698103372
+    second: Mobile - Last Cloudia - Spider Enemies_384
+  - first:
+      213: -798526088576231193
+    second: Mobile - Last Cloudia - Spider Enemies_385
+  - first:
+      213: 3383173293841362389
+    second: Mobile - Last Cloudia - Spider Enemies_386
+  - first:
+      213: -826933246473646605
+    second: Mobile - Last Cloudia - Spider Enemies_387
+  - first:
+      213: -3688598679489869764
+    second: Mobile - Last Cloudia - Spider Enemies_388
+  - first:
+      213: -2643523923718283640
+    second: Mobile - Last Cloudia - Spider Enemies_389
+  - first:
+      213: 8834205672126176168
+    second: Mobile - Last Cloudia - Spider Enemies_390
+  - first:
+      213: -1515253669015288509
+    second: Mobile - Last Cloudia - Spider Enemies_391
+  - first:
+      213: 5375864481500409169
+    second: Mobile - Last Cloudia - Spider Enemies_392
+  - first:
+      213: 4129628727201753949
+    second: Mobile - Last Cloudia - Spider Enemies_393
+  - first:
+      213: -2715004803785211484
+    second: Mobile - Last Cloudia - Spider Enemies_394
+  - first:
+      213: 3152872213536719303
+    second: Mobile - Last Cloudia - Spider Enemies_395
+  - first:
+      213: 5207274877057810166
+    second: Mobile - Last Cloudia - Spider Enemies_396
+  - first:
+      213: -3923486968200440125
+    second: Mobile - Last Cloudia - Spider Enemies_397
+  - first:
+      213: 6019309208906499359
+    second: Mobile - Last Cloudia - Spider Enemies_398
+  - first:
+      213: -7454240659683187820
+    second: Mobile - Last Cloudia - Spider Enemies_399
+  - first:
+      213: 3516201900334802283
+    second: Mobile - Last Cloudia - Spider Enemies_400
+  - first:
+      213: -512351594636460385
+    second: Mobile - Last Cloudia - Spider Enemies_401
+  - first:
+      213: 3669000446194872273
+    second: Mobile - Last Cloudia - Spider Enemies_402
+  - first:
+      213: -4397785143643705736
+    second: Mobile - Last Cloudia - Spider Enemies_403
+  - first:
+      213: -8146978561126900965
+    second: Mobile - Last Cloudia - Spider Enemies_404
+  - first:
+      213: 7490858768268059131
+    second: Mobile - Last Cloudia - Spider Enemies_405
+  - first:
+      213: -748697203973806375
+    second: Mobile - Last Cloudia - Spider Enemies_406
+  - first:
+      213: 1852529043094164324
+    second: Mobile - Last Cloudia - Spider Enemies_407
+  - first:
+      213: 3616878306850853184
+    second: Mobile - Last Cloudia - Spider Enemies_408
+  - first:
+      213: 958599684539861601
+    second: Mobile - Last Cloudia - Spider Enemies_409
+  - first:
+      213: 4025583664422866359
+    second: Mobile - Last Cloudia - Spider Enemies_410
+  - first:
+      213: -8450855666720761191
+    second: Mobile - Last Cloudia - Spider Enemies_411
+  - first:
+      213: -5750811265793782232
+    second: Mobile - Last Cloudia - Spider Enemies_412
+  - first:
+      213: -7642176692775467762
+    second: Mobile - Last Cloudia - Spider Enemies_413
+  - first:
+      213: 5331780689653348608
+    second: Mobile - Last Cloudia - Spider Enemies_414
+  - first:
+      213: 7969520904203038816
+    second: Mobile - Last Cloudia - Spider Enemies_415
+  - first:
+      213: 5448513534829528812
+    second: Mobile - Last Cloudia - Spider Enemies_416
+  - first:
+      213: -5316998620039403456
+    second: Mobile - Last Cloudia - Spider Enemies_417
+  - first:
+      213: 685442719577614964
+    second: Mobile - Last Cloudia - Spider Enemies_418
+  - first:
+      213: 3898525823292283245
+    second: Mobile - Last Cloudia - Spider Enemies_419
+  - first:
+      213: 8591055397968930066
+    second: Mobile - Last Cloudia - Spider Enemies_420
+  - first:
+      213: -5589842804037831345
+    second: Mobile - Last Cloudia - Spider Enemies_421
+  - first:
+      213: 2993937233794022329
+    second: Mobile - Last Cloudia - Spider Enemies_422
+  - first:
+      213: -373390119569384628
+    second: Mobile - Last Cloudia - Spider Enemies_423
+  - first:
+      213: 8209561723777051177
+    second: Mobile - Last Cloudia - Spider Enemies_424
+  - first:
+      213: -6590446185298056715
+    second: Mobile - Last Cloudia - Spider Enemies_425
+  - first:
+      213: -8061808735127977163
+    second: Mobile - Last Cloudia - Spider Enemies_426
+  - first:
+      213: -5294467754133078178
+    second: Mobile - Last Cloudia - Spider Enemies_427
+  - first:
+      213: 3514630006576132983
+    second: Mobile - Last Cloudia - Spider Enemies_428
+  - first:
+      213: 5478845173592477795
+    second: Mobile - Last Cloudia - Spider Enemies_429
+  - first:
+      213: -2439369875401423097
+    second: Mobile - Last Cloudia - Spider Enemies_430
+  - first:
+      213: -8990542727108896984
+    second: Mobile - Last Cloudia - Spider Enemies_431
+  - first:
+      213: 2610930966707776590
+    second: Mobile - Last Cloudia - Spider Enemies_432
+  - first:
+      213: 5913481574025063675
+    second: Mobile - Last Cloudia - Spider Enemies_433
+  - first:
+      213: -193063282116621017
+    second: Mobile - Last Cloudia - Spider Enemies_434
+  - first:
+      213: 807287985465811088
+    second: Mobile - Last Cloudia - Spider Enemies_435
+  - first:
+      213: 8933277589860482511
+    second: Mobile - Last Cloudia - Spider Enemies_436
+  - first:
+      213: -5490420816481511149
+    second: Mobile - Last Cloudia - Spider Enemies_437
+  - first:
+      213: -3033863793466814838
+    second: Mobile - Last Cloudia - Spider Enemies_438
+  - first:
+      213: -7807879183295166802
+    second: Mobile - Last Cloudia - Spider Enemies_439
+  - first:
+      213: 947766315275255691
+    second: Mobile - Last Cloudia - Spider Enemies_440
+  - first:
+      213: 1489481906232224784
+    second: Mobile - Last Cloudia - Spider Enemies_441
+  - first:
+      213: -5560651440093532590
+    second: Mobile - Last Cloudia - Spider Enemies_442
+  - first:
+      213: -133091477996978583
+    second: Mobile - Last Cloudia - Spider Enemies_443
+  - first:
+      213: -5422678395200610016
+    second: Mobile - Last Cloudia - Spider Enemies_444
+  - first:
+      213: 7630743106165341818
+    second: Mobile - Last Cloudia - Spider Enemies_445
+  - first:
+      213: 8035088121310568999
+    second: Mobile - Last Cloudia - Spider Enemies_446
+  - first:
+      213: 5165668802582200815
+    second: Mobile - Last Cloudia - Spider Enemies_447
+  - first:
+      213: 7686277833778284792
+    second: Mobile - Last Cloudia - Spider Enemies_448
+  - first:
+      213: -3794245933284988031
+    second: Mobile - Last Cloudia - Spider Enemies_449
+  - first:
+      213: 5379701334281548974
+    second: Mobile - Last Cloudia - Spider Enemies_450
+  - first:
+      213: 9050722253950730958
+    second: Mobile - Last Cloudia - Spider Enemies_451
+  - first:
+      213: 6783945135979829227
+    second: Mobile - Last Cloudia - Spider Enemies_452
+  - first:
+      213: -3951715514038541399
+    second: Mobile - Last Cloudia - Spider Enemies_453
+  - first:
+      213: -7171353846115783478
+    second: Mobile - Last Cloudia - Spider Enemies_454
+  - first:
+      213: -8014783386456191953
+    second: Mobile - Last Cloudia - Spider Enemies_455
+  - first:
+      213: -5726738612137204543
+    second: Mobile - Last Cloudia - Spider Enemies_456
+  - first:
+      213: -7137788086544514216
+    second: Mobile - Last Cloudia - Spider Enemies_457
+  - first:
+      213: -4099376634209318157
+    second: Mobile - Last Cloudia - Spider Enemies_458
+  - first:
+      213: -545599159520888688
+    second: Mobile - Last Cloudia - Spider Enemies_459
+  - first:
+      213: 7800765273223774278
+    second: Mobile - Last Cloudia - Spider Enemies_460
+  - first:
+      213: -5559439767110573048
+    second: Mobile - Last Cloudia - Spider Enemies_461
+  - first:
+      213: 1393450458461989746
+    second: Mobile - Last Cloudia - Spider Enemies_462
+  - first:
+      213: -3117876766107613427
+    second: Mobile - Last Cloudia - Spider Enemies_463
+  - first:
+      213: 1548512456816332455
+    second: Mobile - Last Cloudia - Spider Enemies_464
+  - first:
+      213: 3907502377780487554
+    second: Mobile - Last Cloudia - Spider Enemies_465
+  - first:
+      213: -1653936152838245678
+    second: Mobile - Last Cloudia - Spider Enemies_466
+  - first:
+      213: 8539039308954452233
+    second: Mobile - Last Cloudia - Spider Enemies_467
+  - first:
+      213: 6914228539154877980
+    second: Mobile - Last Cloudia - Spider Enemies_468
+  - first:
+      213: 5178997362018503474
+    second: Mobile - Last Cloudia - Spider Enemies_469
+  - first:
+      213: 735101936210750362
+    second: Mobile - Last Cloudia - Spider Enemies_470
+  - first:
+      213: 3193895629077417371
+    second: Mobile - Last Cloudia - Spider Enemies_471
+  - first:
+      213: -2709470356170431726
+    second: Mobile - Last Cloudia - Spider Enemies_472
+  - first:
+      213: -9018803426503726875
+    second: Mobile - Last Cloudia - Spider Enemies_473
+  - first:
+      213: 6987589243561528247
+    second: Mobile - Last Cloudia - Spider Enemies_474
+  - first:
+      213: -5814015312657362332
+    second: Mobile - Last Cloudia - Spider Enemies_475
+  - first:
+      213: -8070523167112931579
+    second: Mobile - Last Cloudia - Spider Enemies_476
+  - first:
+      213: 3651082547366988980
+    second: Mobile - Last Cloudia - Spider Enemies_477
+  - first:
+      213: 1238574220995069747
+    second: Mobile - Last Cloudia - Spider Enemies_478
+  - first:
+      213: 5638181684110236605
+    second: Mobile - Last Cloudia - Spider Enemies_479
+  - first:
+      213: -7969877785031800946
+    second: Mobile - Last Cloudia - Spider Enemies_480
+  - first:
+      213: 5175630577524118915
+    second: Mobile - Last Cloudia - Spider Enemies_481
+  - first:
+      213: -1142711247028190732
+    second: Mobile - Last Cloudia - Spider Enemies_482
+  - first:
+      213: -1410961581397253526
+    second: Mobile - Last Cloudia - Spider Enemies_483
+  - first:
+      213: -1412705975044587759
+    second: Mobile - Last Cloudia - Spider Enemies_484
+  - first:
+      213: 3694726392666821882
+    second: Mobile - Last Cloudia - Spider Enemies_485
+  - first:
+      213: 6212360887784036583
+    second: Mobile - Last Cloudia - Spider Enemies_486
+  - first:
+      213: -8885811217233896963
+    second: Mobile - Last Cloudia - Spider Enemies_487
+  - first:
+      213: 5678016605044561733
+    second: Mobile - Last Cloudia - Spider Enemies_488
+  - first:
+      213: -3547219392147620389
+    second: Mobile - Last Cloudia - Spider Enemies_489
+  - first:
+      213: 2755623405348282339
+    second: Mobile - Last Cloudia - Spider Enemies_490
+  - first:
+      213: 6513658573103158027
+    second: Mobile - Last Cloudia - Spider Enemies_491
+  - first:
+      213: 1180238061075923325
+    second: Mobile - Last Cloudia - Spider Enemies_492
+  - first:
+      213: -8105976648475239826
+    second: Mobile - Last Cloudia - Spider Enemies_493
+  - first:
+      213: -2494751746415020986
+    second: Mobile - Last Cloudia - Spider Enemies_494
+  - first:
+      213: 6032358238078498990
+    second: Mobile - Last Cloudia - Spider Enemies_495
+  - first:
+      213: -101884547857486629
+    second: Mobile - Last Cloudia - Spider Enemies_496
+  - first:
+      213: -4591870900105771024
+    second: Mobile - Last Cloudia - Spider Enemies_497
+  - first:
+      213: 4472556836983867844
+    second: Mobile - Last Cloudia - Spider Enemies_498
+  - first:
+      213: 2646205568055657195
+    second: Mobile - Last Cloudia - Spider Enemies_499
+  - first:
+      213: 6127913178633115511
+    second: Mobile - Last Cloudia - Spider Enemies_500
+  - first:
+      213: -3588776167665863358
+    second: Mobile - Last Cloudia - Spider Enemies_501
+  - first:
+      213: -270657354867974410
+    second: Mobile - Last Cloudia - Spider Enemies_502
+  - first:
+      213: 1095577317106462685
+    second: Mobile - Last Cloudia - Spider Enemies_503
+  - first:
+      213: -5039806762423786883
+    second: Mobile - Last Cloudia - Spider Enemies_504
+  - first:
+      213: 2667570276591897023
+    second: Mobile - Last Cloudia - Spider Enemies_505
+  - first:
+      213: 2889616332565338946
+    second: Mobile - Last Cloudia - Spider Enemies_506
+  - first:
+      213: -8262544557671957195
+    second: Mobile - Last Cloudia - Spider Enemies_507
+  - first:
+      213: -5439817169504068307
+    second: Mobile - Last Cloudia - Spider Enemies_508
+  - first:
+      213: -6931190945265589732
+    second: Mobile - Last Cloudia - Spider Enemies_509
+  - first:
+      213: -1683878936267855312
+    second: Mobile - Last Cloudia - Spider Enemies_510
+  - first:
+      213: -5626543988193823134
+    second: Mobile - Last Cloudia - Spider Enemies_511
+  - first:
+      213: 1266725314767299009
+    second: Mobile - Last Cloudia - Spider Enemies_512
+  - first:
+      213: 6190860029737071278
+    second: Mobile - Last Cloudia - Spider Enemies_513
+  - first:
+      213: 2000021061806786205
+    second: Mobile - Last Cloudia - Spider Enemies_514
+  - first:
+      213: 6438051615329744133
+    second: Mobile - Last Cloudia - Spider Enemies_515
+  - first:
+      213: 1295844165559668250
+    second: Mobile - Last Cloudia - Spider Enemies_516
+  - first:
+      213: 3594120865836573872
+    second: Mobile - Last Cloudia - Spider Enemies_517
+  - first:
+      213: -2847390477776866088
+    second: Mobile - Last Cloudia - Spider Enemies_518
+  - first:
+      213: -3221728751611403811
+    second: Mobile - Last Cloudia - Spider Enemies_519
+  - first:
+      213: -2493846757446439221
+    second: Mobile - Last Cloudia - Spider Enemies_520
+  - first:
+      213: -31200945187314442
+    second: Mobile - Last Cloudia - Spider Enemies_521
+  - first:
+      213: -7192167546745005452
+    second: Mobile - Last Cloudia - Spider Enemies_522
+  - first:
+      213: -3270124293393300680
+    second: Mobile - Last Cloudia - Spider Enemies_523
+  - first:
+      213: 7710581632939028790
+    second: Mobile - Last Cloudia - Spider Enemies_524
+  - first:
+      213: -761747208548125858
+    second: Mobile - Last Cloudia - Spider Enemies_525
+  - first:
+      213: -646168091263677501
+    second: Mobile - Last Cloudia - Spider Enemies_526
+  - first:
+      213: -1558130738712981152
+    second: Mobile - Last Cloudia - Spider Enemies_527
+  - first:
+      213: -239357090537408211
+    second: Mobile - Last Cloudia - Spider Enemies_0
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1091
+        width: 73
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29fb0c8ef1adacf0800000000000000
+      internalID: -239357090537408211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1091
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5004db4480ed54130800000000000000
+      internalID: 3550488008345862149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1152
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1151d1dd869240800000000000000
+      internalID: 4798178385309277379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1089
+        width: 51
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0c32b75101d930800000000000000
+      internalID: 4166112606458482631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1089
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a8dc207ed9f4800800000000000000
+      internalID: 598870890973596238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1096
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892edf5a947e35000800000000000000
+      internalID: 23616726570492568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1099
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded8c434db6ca1d0800000000000000
+      internalID: -3338174664625561897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986fa62ce05b70900800000000000000
+      internalID: 650687746174285449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1098
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dc046059b81ee0800000000000000
+      internalID: -1290077538314562571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1093
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e34ddad10573c0800000000000000
+      internalID: -4362578624511744110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1095
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371dc1fb18ac96ad0800000000000000
+      internalID: -2708411042280713869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1046
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1a297a8235dc30800000000000000
+      internalID: 4383465382634724895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1047
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d067b5c5ee3a9c0800000000000000
+      internalID: -3917025170443334248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1087
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c51b5432be5f20800000000000000
+      internalID: 3413361505529611573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1044
+        width: 110
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e69b0a224567d0800000000000000
+      internalID: -2925859634556772084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1045
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8b3322a95144460800000000000000
+      internalID: 7224923453952080107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1045
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5891b16df0d55d220800000000000000
+      internalID: 2510014689926912389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1044
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364e545c202e98ca0800000000000000
+      internalID: -6014027325849082781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1045
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d497e14df91f4d910800000000000000
+      internalID: 1861378214771718477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1044
+        width: 73
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096118ecd6ed7b3a0800000000000000
+      internalID: -6649601761591880048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1044
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dddecdae2111390800000000000000
+      internalID: -7849471875591840458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1044
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1d320655768af10800000000000000
+      internalID: 2281186827645997520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1044
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e86294983dab50800000000000000
+      internalID: 6605998439185047649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 947
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8f1ff35337045f0800000000000000
+      internalID: -774492463364441882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1014
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210bc9fa22a21140800000000000000
+      internalID: 4688988467509264681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1006
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9c26ca8b2723300800000000000000
+      internalID: 230372668441020894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 945
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69eef8a9b10d4630800000000000000
+      internalID: 3912785548170684778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1007
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974c2f69ef1f85740800000000000000
+      internalID: 5141125050399900793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _idle1
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 989
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abed7004dfe11db00800000000000000
+      internalID: 851495877599551162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Walk1
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 990
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8546b6f7ff53cf80800000000000000
+      internalID: -8087514987226577523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Walk2
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 980
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fa73f0a9cf9300800000000000000
+      internalID: 261148996527650993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 967
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9513e9953d261dd30800000000000000
+      internalID: 4454450166327292249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 967
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c9b31f4b615c7c0800000000000000
+      internalID: -4051807323352753035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 948
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdc870df11d29c0800000000000000
+      internalID: -3950481519682985990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 988
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0426ed8745ce67550800000000000000
+      internalID: 6158369388024980032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 952
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49364f53291e44410800000000000000
+      internalID: 1460540197261566868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upright1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 945
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286a45bec2d9dc8c0800000000000000
+      internalID: -3977350079645964670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upright2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 945
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1653d46ca0d2a6bd0800000000000000
+      internalID: -2636245107572132511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upright3
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 945
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d62a30375a66800800000000000000
+      internalID: 605353113328708909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 945
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ef22b32c903750800000000000000
+      internalID: 6282693157309112593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _idle2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 946
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dda2ccd3942e620800000000000000
+      internalID: 2801882447945063808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _idle3
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 945
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6ebefc373abbd10800000000000000
+      internalID: 2142485765549713060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aa2
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 944
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b718d816471babe0800000000000000
+      internalID: -1465051663946999884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 924
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e49e63788965920800000000000000
+      internalID: 2978735910061428368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 924
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8cda090085c050800000000000000
+      internalID: 5820198869771521776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 924
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33f5281ef5f5cd0800000000000000
+      internalID: -2567227840418335787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 947
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7fec1e5e8e0360800000000000000
+      internalID: 7137798994292342326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 945
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c5d598cf8e2930800000000000000
+      internalID: 4120388800760629104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Walk3
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 944
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5fe54cffe92f660800000000000000
+      internalID: 7418166357581034937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _Walk4
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 929
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afbd4e323e8193d0800000000000000
+      internalID: -3201621513638920286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 931
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b696928949bace10800000000000000
+      internalID: 2218789491808048821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 899
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da615c4330dbf4640800000000000000
+      internalID: 5066475927282980525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 786
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fbfa4d3591f3030800000000000000
+      internalID: 3476525285194579764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 786
+        width: 198
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6272bf98c5ae7e660800000000000000
+      internalID: 7415152994661639974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 787
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86842d9e65ea02a60800000000000000
+      internalID: 7647303855588395112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 788
+        width: 197
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa451813d2eac0a50800000000000000
+      internalID: 6488752672261362858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 786
+        width: 192
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616406f9f71f5d40800000000000000
+      internalID: 5575201226049741162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 786
+        width: 187
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173bfb0f5a110700800000000000000
+      internalID: 504713628767434526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 907
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dc24194a585bf0800000000000000
+      internalID: -335418902321507755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 911
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaf97fef25a47810800000000000000
+      internalID: 1762214979508501211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 905
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa68d62eca075ef0800000000000000
+      internalID: -119614984570770698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 874
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d8e78cc83b722c0800000000000000
+      internalID: -4456395889019286271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 874
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d1b7be52572a670800000000000000
+      internalID: 8548523848427576668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 786
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e7797eae5ecc50800000000000000
+      internalID: 6687386600146986729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 876
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab6a66c5d6cd2a0800000000000000
+      internalID: -6711369101062259990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 875
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3198fe5a741d5780800000000000000
+      internalID: -8692769189943275206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 786
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802a5168c4ae91d00800000000000000
+      internalID: 944043211298808328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 831
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b974d7249972460800000000000000
+      internalID: 7216905438733245233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 784
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3f2c6de802b7910800000000000000
+      internalID: 1836097070944154576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 784
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5ead0db33aace70800000000000000
+      internalID: 9136294271376877025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 784
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d236139907731c3b0800000000000000
+      internalID: -5494049113669278931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 784
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6443e9b845659b0800000000000000
+      internalID: -5091789370064353612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 784
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f2839949ea9dec0800000000000000
+      internalID: -3541607678701195478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 784
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba522066f940fa10800000000000000
+      internalID: 1941132761920330430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 687
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671a484a96b67be30800000000000000
+      internalID: 4519198852565475702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 754
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da488f8a32633be00800000000000000
+      internalID: 1059249864148812973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 746
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baf587ad0f762c10800000000000000
+      internalID: 2028448378798865076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 685
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef6b5e7bb005460800000000000000
+      internalID: 7228290286390542019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 747
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded1b28003ee3100800000000000000
+      internalID: 89758633926188762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 729
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01ce6ca91e8ec40800000000000000
+      internalID: 5541927396357968092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 730
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969addb07c207b70800000000000000
+      internalID: 8894658126789908127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 720
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462db649d3f8e350800000000000000
+      internalID: 6046350614265144910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 707
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bd4834a52ae71e0800000000000000
+      internalID: -2198141059546686715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 707
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b093bc584808b80800000000000000
+      internalID: -8394563995243574423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 688
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0530cd12bca3126e0800000000000000
+      internalID: -1864144126633835696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 728
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f00b68757d4782d0800000000000000
+      internalID: -3276565036961955594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 692
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97885e1bab03c6b10800000000000000
+      internalID: 1976007914915465337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 685
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b248b6aafe707e0800000000000000
+      internalID: -1799206010883921064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 685
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d55c61a1736fd00800000000000000
+      internalID: 1006052151954595136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 685
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d42eca4f5a6a8f0800000000000000
+      internalID: -529553435878339240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 685
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410945ec5e5184c40800000000000000
+      internalID: 5496667421959032852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 686
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea17cfc62c713fe0800000000000000
+      internalID: -1211050318649419040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 685
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299f04b6b54995ce0800000000000000
+      internalID: -1415937487468955246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 684
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db3cfac560d21e00800000000000000
+      internalID: 1014102001727585233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 664
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f945718d358749380800000000000000
+      internalID: -8965408656684788577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 664
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48697813963a432b0800000000000000
+      internalID: -5605675963971561852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 664
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a8997e5e1451cd0800000000000000
+      internalID: -2588089955165566403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 687
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6ded3125e89ce0800000000000000
+      internalID: -1398115753362887420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 685
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e301918656c69d420800000000000000
+      internalID: 2655272638105587774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 684
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9af1a2abb19c070800000000000000
+      internalID: 8127057488951355820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 669
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc08f3a0eef93b40800000000000000
+      internalID: 5420643867294174393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 671
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8bbdcab203a15d0800000000000000
+      internalID: -3091105230094616338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 639
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573793c54fe8cb30800000000000000
+      internalID: 4307956126493128537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 526
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f005186e0c9b7880800000000000000
+      internalID: -8612118276726259470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 526
+        width: 198
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08193f82343c0bea0800000000000000
+      internalID: -5858968421991739008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 527
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6329713f0620780800000000000000
+      internalID: -8718299331447081256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 528
+        width: 197
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be15b0f97e3604550800000000000000
+      internalID: 6143019738190270955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 526
+        width: 192
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c70564fe30af920800000000000000
+      internalID: 3024734425944456217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 526
+        width: 187
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a1521b305d68d0800000000000000
+      internalID: -2851534774415023436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 647
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d53a130d930b270800000000000000
+      internalID: 8264168882573630831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 651
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4b3a2550e85730800000000000000
+      internalID: 3988184126421946129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 645
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725031269aab86430800000000000000
+      internalID: 3776473524207813927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 614
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a779a5292ce3d5830800000000000000
+      internalID: 4061471444358043514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 614
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba0111a1c78713c0800000000000000
+      internalID: -4388890046148572487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 526
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05d6548c085bd40800000000000000
+      internalID: 5599523309351686385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 616
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a756f77fdde320800000000000000
+      internalID: 2588971067134944378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 615
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715feab708097880800000000000000
+      internalID: -8612843983075323526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 526
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703bb0bee2c374c0800000000000000
+      internalID: -4290871689530888066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 571
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a50b54611f0aa1d0800000000000000
+      internalID: -3338839606369253980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 524
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d674cd05f311c44c0800000000000000
+      internalID: -4302044580408440979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 524
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b2c795a48dd1ac0800000000000000
+      internalID: -3882709489883010299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 524
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d892da84f7916c0800000000000000
+      internalID: -4172163629662499487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 524
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25b05e4b2934b040800000000000000
+      internalID: 4662414372395595051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 524
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ebac6e4f4ecba90800000000000000
+      internalID: -7296705555751846245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 524
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb2c1224360aa8e0800000000000000
+      internalID: -1681524689889121291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 427
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e00f12aa453270800000000000000
+      internalID: 8229565954254760279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ee29d883ee1120800000000000000
+      internalID: 2386595029451728524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 486
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86413b31ad35af8b0800000000000000
+      internalID: -5117685830454668184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 425
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e9c031348014330800000000000000
+      internalID: 3693242253595942466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 487
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4dedc37ce6f840800000000000000
+      internalID: 5257649597121908215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 469
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b04e4b7b5cbf90800000000000000
+      internalID: -6936568740905437231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 470
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373d536d7b77eb80800000000000000
+      internalID: -8365582004349225161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 460
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe79ead47fe0b200800000000000000
+      internalID: 193918069144911612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 447
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db14bcbc96de3940800000000000000
+      internalID: 5277891781993962450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 447
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c2bbbb2367efb00800000000000000
+      internalID: 864258138771762208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 428
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd5f960b65a2f030800000000000000
+      internalID: 3527063337275710943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 468
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b02895e8c2611810800000000000000
+      internalID: 1734275946499285169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 432
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d05faa7e938ff10800000000000000
+      internalID: 2303654876568423800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 425
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af6beac763835c20800000000000000
+      internalID: 3194041042545110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 425
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e527384eda41d70800000000000000
+      internalID: 9013019951244664370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 425
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b600f170862a540800000000000000
+      internalID: 5017687314638334812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 425
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425283567bedc56e0800000000000000
+      internalID: -1847356867870186204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 426
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0428260862dc8ac90800000000000000
+      internalID: -7158246042459012544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 425
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a03830813281b3e0800000000000000
+      internalID: -2039706007105949532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 424
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab73298be075cb250800000000000000
+      internalID: 5961735727469443002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 404
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2e75efb2c65a080800000000000000
+      internalID: -9176809729490951438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 404
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3f037cfff364af0800000000000000
+      internalID: -412571948066737235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 404
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09440dc8bc40fe80800000000000000
+      internalID: -8146927369315923702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 427
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03feeee8bc810a040800000000000000
+      internalID: 4656749277256544048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 425
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7668373a736067780800000000000000
+      internalID: -8685747995302197657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 424
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865247800b5c75ca0800000000000000
+      internalID: -6028132216365374104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 409
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd48277dbe82490800000000000000
+      internalID: -7770701846455984272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 411
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6490c5e2e2dcd41f0800000000000000
+      internalID: -1058964739132225210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_153
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 379
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126629fc40567f180800000000000000
+      internalID: -9081679052232563167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_154
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 266
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d17af8b6484f240800000000000000
+      internalID: 4824626698327104876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_155
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 266
+        width: 198
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496af975d8c5d4950800000000000000
+      internalID: 6434901204712531604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_156
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 267
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1af3681817399a0800000000000000
+      internalID: -6227509058606226967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_157
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 268
+        width: 197
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22092fb34de54f0800000000000000
+      internalID: -837999126706642212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_158
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 266
+        width: 192
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f50786a91aa1a990800000000000000
+      internalID: -7376427687511390734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_159
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 266
+        width: 187
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6485e94edeabe7100800000000000000
+      internalID: 107728972009068614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_160
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 387
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f48c55fbe47f3d0800000000000000
+      internalID: -3172980828774314123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_161
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 391
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3946c9f6bcd0975f0800000000000000
+      internalID: -758559894833175405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_162
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 385
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446c631b53b7ae20800000000000000
+      internalID: 3361852850604631119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_163
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 354
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e13fa0df44e86030800000000000000
+      internalID: 3488288942853140960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_164
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 354
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179daf5b7f0454500800000000000000
+      internalID: 379781176236890481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_165
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 266
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de43561287416750800000000000000
+      internalID: 6296392378086543057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_166
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 356
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180b995c3db837910800000000000000
+      internalID: 1833963214939467905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_167
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 355
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90382b13c03e48360800000000000000
+      internalID: 7171106148193567497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_168
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 266
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c002533769757d0800000000000000
+      internalID: -2929707611024520143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_169
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 311
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ca09ffa687a2fb0800000000000000
+      internalID: -4671789262493930401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_170
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 264
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92c1955c864a5050800000000000000
+      internalID: 5790017839483175578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_171
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 264
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec2463eb4b4b9c00800000000000000
+      internalID: 908402539154910447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_172
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 264
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be35141c9f2f03c90800000000000000
+      internalID: -7191981450407619605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_173
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 264
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf15762b395a7f80800000000000000
+      internalID: -8108070068544004131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_174
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 264
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3988a45cb80e6d70800000000000000
+      internalID: 9038171107146369342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_175
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 264
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25596f0844f9f9040800000000000000
+      internalID: 4656615656294618450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_176
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 167
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebede2032f6f8b20800000000000000
+      internalID: 3138849661464210403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_177
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0360a67ce9e288080800000000000000
+      internalID: -9185040180536801744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_178
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 226
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea221637c435c80800000000000000
+      internalID: -8335234426898043258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_179
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 165
+        width: 94
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92088538ca4eafc0800000000000000
+      internalID: -3481763238158794082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_180
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 227
+        width: 71
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f253b760d51fa3fa0800000000000000
+      internalID: -5820074186579954385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_181
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 209
+        width: 79
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2014705a9f312730800000000000000
+      internalID: 3972526278324785198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_182
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 210
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e505efff2f597b0800000000000000
+      internalID: -5217997411941589452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_183
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 200
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a954ca22998c2790800000000000000
+      internalID: -7553511214131422811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_184
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 187
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1629e196f5dc960800000000000000
+      internalID: 7623854649297232316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_185
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 187
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b017eebb8e6cde1f0800000000000000
+      internalID: -1013935638200815349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_186
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 168
+        width: 96
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf75b0e4b9b33e2b0800000000000000
+      internalID: -5556531977029724165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_187
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 208
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0ff826cde67d340800000000000000
+      internalID: 4888497813359423691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_188
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 172
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8f649cd09e99150800000000000000
+      internalID: 5879987033929611450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_189
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 165
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc794065497317400800000000000000
+      internalID: 320098158757844941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_190
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 165
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d6bb133e0d5a30800000000000000
+      internalID: 4205533239704998891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_191
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 165
+        width: 93
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134278125f273ee0800000000000000
+      internalID: -1281503539319651562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_192
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 165
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144633ef9cbd2b50800000000000000
+      internalID: 6570114826301228052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_193
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 166
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79b09e8af7421f00800000000000000
+      internalID: 1086009601608956287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_194
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 165
+        width: 77
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affa2b8228091ad30800000000000000
+      internalID: 4440989596266967034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_195
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 164
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71af4ace98afd230800000000000000
+      internalID: 3665834021655388539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_196
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 144
+        width: 77
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcd88b0bf373b8e0800000000000000
+      internalID: -1678870714011558658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_197
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 144
+        width: 51
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd40917754641230800000000000000
+      internalID: 3608619528160824754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_198
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 144
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa738b18c2ea23e20800000000000000
+      internalID: 3328914580758345647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_199
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 167
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f0d18d09603c40800000000000000
+      internalID: 5490003452498081198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_200
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 165
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66466d1de67aa480800000000000000
+      internalID: -8887160153889683858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_201
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 164
+        width: 82
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f8c5586d5c89ef0800000000000000
+      internalID: -101113466464727267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_202
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 149
+        width: 85
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f329cfc4329560800000000000000
+      internalID: 7318970411467929623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_203
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 151
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304ecfb3b03757170800000000000000
+      internalID: 8175567190649267203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_204
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 119
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ee6267d250cf60800000000000000
+      internalID: 8052527218761327887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_205
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 196
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2aa7779a8c143570800000000000000
+      internalID: 8445406582798789167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_206
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 6
+        width: 198
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec693eb9af7b8c0800000000000000
+      internalID: -3983439797940728155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_207
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 7
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124d9054e2b173b0800000000000000
+      internalID: -5516431374877375980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_208
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 8
+        width: 197
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1a6710d2d6be20800000000000000
+      internalID: 3366109562693884674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_209
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 6
+        width: 192
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0834e72fcc421ee80800000000000000
+      internalID: -8151193387903597696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_210
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 6
+        width: 187
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2d51250f4cf730800000000000000
+      internalID: 4034186249670306633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_211
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 127
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511675c159f2e40e0800000000000000
+      internalID: -2283835643558141675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_212
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 131
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255f1dccd92da62b0800000000000000
+      internalID: -5590424412239039150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_213
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 125
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8174384bb2ae95800800000000000000
+      internalID: 601769498663667480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_214
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 94
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00e299e6b1056950800000000000000
+      internalID: 6441556727137755146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_215
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 94
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7751b8c8854db60800000000000000
+      internalID: 7769932617773053876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_216
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 6
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c652054e4bdcf7b0800000000000000
+      internalID: -5189031541425940794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_217
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 96
+        width: 71
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45a2bce1d296d70800000000000000
+      internalID: 9036803737576428761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_218
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 95
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e962f4aff57700800000000000000
+      internalID: 537616814447388306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_219
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 6
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdedb6a27258a4360800000000000000
+      internalID: 7154677361293385435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_220
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 51
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3264a39dc5fa430800000000000000
+      internalID: 3796355098951951311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_221
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4
+        width: 86
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e8527a450af450800000000000000
+      internalID: 6123212460667758631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_222
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 4
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c784f12110c1f2040800000000000000
+      internalID: 4624946133257373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_223
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 4
+        width: 100
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27e49f411cb2c110800000000000000
+      internalID: 1279792026662266667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_224
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 4
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130eca044d645a660800000000000000
+      internalID: 7396395840457990193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_225
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 4
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80af5fd1aa95e2160800000000000000
+      internalID: 7002633057789671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Last Cloudia - Spider Enemies_226
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 4
+        width: 88
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56b9c2f06adb2550800000000000000
+      internalID: 6137239027147454046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ba0945054e4fee84a8a7df4a5c8a9447
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
